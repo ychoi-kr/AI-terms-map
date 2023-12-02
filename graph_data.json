@@ -1,0 +1,4107 @@
+{
+    "nodes": [
+        {
+            "id": 120136,
+            "name": "ML: machine learning (\uba38\uc2e0\ub7ec\ub2dd, \uae30\uacc4 \ud559\uc2b5, \uae30\uacc4\ud559\uc2b5)",
+            "url": "https://wikidocs.net/120136"
+        },
+        {
+            "id": 120146,
+            "name": "AI: Artificial Intelligence (\uc778\uacf5\uc9c0\ub2a5)",
+            "url": "https://wikidocs.net/120146"
+        },
+        {
+            "id": 120327,
+            "name": "CNN: Convolutional Neural Network (\ud569\uc131\uacf1 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/120327"
+        },
+        {
+            "id": 120131,
+            "name": "DL: deep learning (\ub525\ub7ec\ub2dd, \uc2ec\uce35\ud559\uc2b5)",
+            "url": "https://wikidocs.net/120131"
+        },
+        {
+            "id": 128393,
+            "name": "FCN: Fully Convolutional Networks",
+            "url": "https://wikidocs.net/128393"
+        },
+        {
+            "id": 222515,
+            "name": "Fast R-CNN",
+            "url": "https://wikidocs.net/222515"
+        },
+        {
+            "id": 222517,
+            "name": "Faster R-CNN",
+            "url": "https://wikidocs.net/222517"
+        },
+        {
+            "id": 222512,
+            "name": "Mask R-CNN",
+            "url": "https://wikidocs.net/222512"
+        },
+        {
+            "id": 128392,
+            "name": "U-Net",
+            "url": "https://wikidocs.net/128392"
+        },
+        {
+            "id": 222497,
+            "name": "segmentation (\uc138\uadf8\uba3c\ud14c\uc774\uc158, \uc138\uadf8\uba58\ud14c\uc774\uc158, \uc138\ubd84\ud654, \ubd84\ud560)",
+            "url": "https://wikidocs.net/222497"
+        },
+        {
+            "id": 152763,
+            "name": "Caffe (\uce74\ud398)",
+            "url": "https://wikidocs.net/152763"
+        },
+        {
+            "id": 120153,
+            "name": "ANN: artificial neural network (\uc778\uacf5\uc2e0\uacbd\ub9dd, \ub274\ub7f4\ub124\ud2b8\uc6cc\ud06c)",
+            "url": "https://wikidocs.net/120153"
+        },
+        {
+            "id": 120376,
+            "name": "action-value function (\ud589\ub3d9\uac00\uce58 \ud568\uc218)",
+            "url": "https://wikidocs.net/120376"
+        },
+        {
+            "id": 120358,
+            "name": "agent (\uc5d0\uc774\uc804\ud2b8)",
+            "url": "https://wikidocs.net/120358"
+        },
+        {
+            "id": 120149,
+            "name": "RL: reinforcement learning (\uac15\ud654\ud559\uc2b5)",
+            "url": "https://wikidocs.net/120149"
+        },
+        {
+            "id": 174292,
+            "name": "PCA: principal component analysis (\uc8fc\uc131\ubd84\ubd84\uc11d)",
+            "url": "https://wikidocs.net/174292"
+        },
+        {
+            "id": 202616,
+            "name": "feature extraction (\ud2b9\uc9d5 \ucd94\ucd9c)",
+            "url": "https://wikidocs.net/202616"
+        },
+        {
+            "id": 177875,
+            "name": "feature (\ud2b9\uc9d5, \ud53c\ucc98)",
+            "url": "https://wikidocs.net/177875"
+        },
+        {
+            "id": 120197,
+            "name": "classification (\ubd84\ub958)",
+            "url": "https://wikidocs.net/120197"
+        },
+        {
+            "id": 120110,
+            "name": "linear regression (\uc120\ud615 \ud68c\uadc0)",
+            "url": "https://wikidocs.net/120110"
+        },
+        {
+            "id": 120081,
+            "name": "logistic regression (\ub85c\uc9c0\uc2a4\ud2f1 \ud68c\uadc0)",
+            "url": "https://wikidocs.net/120081"
+        },
+        {
+            "id": 120109,
+            "name": "nonlinear regression (\ube44\uc120\ud615 \ud68c\uadc0)",
+            "url": "https://wikidocs.net/120109"
+        },
+        {
+            "id": 120111,
+            "name": "regression (\ud68c\uadc0)",
+            "url": "https://wikidocs.net/120111"
+        },
+        {
+            "id": 120321,
+            "name": "residual (\uc794\ucc28)",
+            "url": "https://wikidocs.net/120321"
+        },
+        {
+            "id": 202619,
+            "name": "ResNet: Residual Network (\ub808\uc988\ub137)",
+            "url": "https://wikidocs.net/202619"
+        },
+        {
+            "id": 222518,
+            "name": "ROI Pooling",
+            "url": "https://wikidocs.net/222518"
+        },
+        {
+            "id": 120092,
+            "name": "random forest (\ub79c\ub364 \ud3ec\ub808\uc2a4\ud2b8)",
+            "url": "https://wikidocs.net/120092"
+        },
+        {
+            "id": 120168,
+            "name": "ReLU: rectified linear unit (\ub810\ub8e8, \uc815\ub958 \uc120\ud615 \uc720\ub2db, \uc815\ub958 \uc120\ud615 \ub2e8\uc704)",
+            "url": "https://wikidocs.net/120168"
+        },
+        {
+            "id": 163321,
+            "name": "A3C(asynchronous advantage actor-critic)",
+            "url": "https://wikidocs.net/163321"
+        },
+        {
+            "id": 222567,
+            "name": "AGI: Artificial General Intelligence (\uc77c\ubc18\uc778\uacf5\uc9c0\ub2a5)",
+            "url": "https://wikidocs.net/222567"
+        },
+        {
+            "id": 222566,
+            "name": "AI alignment (AI \uc815\ub82c)",
+            "url": "https://wikidocs.net/222566"
+        },
+        {
+            "id": 222570,
+            "name": "AI safety (AI \uc548\uc804)",
+            "url": "https://wikidocs.net/222570"
+        },
+        {
+            "id": 202626,
+            "name": "ARIMA: AutoRegressive Integrated Moving Average (\uc790\uae30\ud68c\uadc0 \ud1b5\ud569 \uc774\ub3d9 \ud3c9\uade0)",
+            "url": "https://wikidocs.net/202626"
+        },
+        {
+            "id": 120051,
+            "name": "ASR: automatic speech recognition (\uc790\ub3d9\uc74c\uc131\uc778\uc2dd)",
+            "url": "https://wikidocs.net/120051"
+        },
+        {
+            "id": 151503,
+            "name": "AUC: area under the curve (\uace1\uc120 \uc544\ub798 \uba74\uc801)",
+            "url": "https://wikidocs.net/151503"
+        },
+        {
+            "id": 163301,
+            "name": "Actor-Critic (\uc561\ud130-\ud06c\ub9ac\ud2f1, \ud589\uc704\uc790-\ube44\ud3c9\uc790)",
+            "url": "https://wikidocs.net/163301"
+        },
+        {
+            "id": 152836,
+            "name": "AdaGrad",
+            "url": "https://wikidocs.net/152836"
+        },
+        {
+            "id": 170551,
+            "name": "AlexNet (\uc54c\ub809\uc2a4\ub137)",
+            "url": "https://wikidocs.net/170551"
+        },
+        {
+            "id": 170692,
+            "name": "AlphaGo (\uc54c\ud30c\uace0)",
+            "url": "https://wikidocs.net/170692"
+        },
+        {
+            "id": 120079,
+            "name": "Autograd (\uc790\ub3d9 \ubbf8\ubd84)",
+            "url": "https://wikidocs.net/120079"
+        },
+        {
+            "id": 151504,
+            "name": "accuracy (\uc815\ud655\ub3c4)",
+            "url": "https://wikidocs.net/151504"
+        },
+        {
+            "id": 120263,
+            "name": "acoustic scene classification",
+            "url": "https://wikidocs.net/120263"
+        },
+        {
+            "id": 120360,
+            "name": "action (\ud589\ub3d9)",
+            "url": "https://wikidocs.net/120360"
+        },
+        {
+            "id": 120076,
+            "name": "activation function (\ud65c\uc131\ud654\ud568\uc218)",
+            "url": "https://wikidocs.net/120076"
+        },
+        {
+            "id": 216699,
+            "name": "anomaly detection (\uc774\uc0c1 \ud0d0\uc9c0)",
+            "url": "https://wikidocs.net/216699"
+        },
+        {
+            "id": 120175,
+            "name": "association analysis (\uc5f0\uad00\uc131 \ubd84\uc11d)",
+            "url": "https://wikidocs.net/120175"
+        },
+        {
+            "id": 120275,
+            "name": "attention (\uc5b4\ud150\uc158)",
+            "url": "https://wikidocs.net/120275"
+        },
+        {
+            "id": 120262,
+            "name": "audio generation (\uc624\ub514\uc624 \uc0dd\uc131)",
+            "url": "https://wikidocs.net/120262"
+        },
+        {
+            "id": 120041,
+            "name": "autoencoder (\uc624\ud1a0\uc778\ucf54\ub354, \uc790\ub3d9\ubd80\ud638\uae30)",
+            "url": "https://wikidocs.net/120041"
+        },
+        {
+            "id": 149211,
+            "name": "auxiliary classifier (\ubcf4\uc870 \ubd84\ub958\uae30)",
+            "url": "https://wikidocs.net/149211"
+        },
+        {
+            "id": 120207,
+            "name": "BERT: Bidirectional Encoder Representations from Transformers (\ubc84\ud2b8)",
+            "url": "https://wikidocs.net/120207"
+        },
+        {
+            "id": 200934,
+            "name": "BGD: Batch Gradient Descent (\ubc30\uce58 \uacbd\uc0ac \ud558\uac15\ubc95)",
+            "url": "https://wikidocs.net/200934"
+        },
+        {
+            "id": 147606,
+            "name": "BPTT: Backpropagation Through Time",
+            "url": "https://wikidocs.net/147606"
+        },
+        {
+            "id": 132538,
+            "name": "Bellman equation (\ubca8\ub9cc \ubc29\uc815\uc2dd)",
+            "url": "https://wikidocs.net/132538"
+        },
+        {
+            "id": 120268,
+            "name": "Borda count (\ubcf4\ub974\ub2e4 \uacc4\uc0b0\ubc95)",
+            "url": "https://wikidocs.net/120268"
+        },
+        {
+            "id": 120065,
+            "name": "Boston Housing Dataset (\ubcf4\uc2a4\ud134 \uc8fc\ud0dd \uac00\uaca9 \ub370\uc774\ud130\uc138\ud2b8)",
+            "url": "https://wikidocs.net/120065"
+        },
+        {
+            "id": 202612,
+            "name": "backbone (\ubc31\ubcf8)",
+            "url": "https://wikidocs.net/202612"
+        },
+        {
+            "id": 120082,
+            "name": "backpropagation (\uc5ed\uc804\ud30c)",
+            "url": "https://wikidocs.net/120082"
+        },
+        {
+            "id": 152756,
+            "name": "bagging (\ubc30\uae45)",
+            "url": "https://wikidocs.net/152756"
+        },
+        {
+            "id": 209704,
+            "name": "baseline model",
+            "url": "https://wikidocs.net/209704"
+        },
+        {
+            "id": 145646,
+            "name": "batch normalization (\ubc30\uce58 \uc815\uaddc\ud654)",
+            "url": "https://wikidocs.net/145646"
+        },
+        {
+            "id": 204700,
+            "name": "bias (\ud3b8\ud5a5, \uce58\uc6b0\uce68, \ubc14\uc774\uc5b4\uc2a4)",
+            "url": "https://wikidocs.net/204700"
+        },
+        {
+            "id": 120200,
+            "name": "biclustering, block clustering, co-clustering, two-mode clustering (\uc774\uc911 \ud074\ub7ec\uc2a4\ud130\ub9c1)",
+            "url": "https://wikidocs.net/120200"
+        },
+        {
+            "id": 205362,
+            "name": "bilinear interpolation (\uc30d\uc120\ud615 \ubcf4\uac04)",
+            "url": "https://wikidocs.net/205362"
+        },
+        {
+            "id": 120159,
+            "name": "binary classification (\uc774\uc9c4 \ubd84\ub958)",
+            "url": "https://wikidocs.net/120159"
+        },
+        {
+            "id": 120151,
+            "name": "bivariate normal distribute (\uc774\ubcc0\ub7c9\uc815\uaddc\ubd84\ud3ec)",
+            "url": "https://wikidocs.net/120151"
+        },
+        {
+            "id": 152757,
+            "name": "boosting (\ubd80\uc2a4\ud305)",
+            "url": "https://wikidocs.net/152757"
+        },
+        {
+            "id": 149290,
+            "name": "CBOW: Continuous Bag of Words",
+            "url": "https://wikidocs.net/149290"
+        },
+        {
+            "id": 120290,
+            "name": "CGAN: conditional GAN (\uc870\uac74\ubd80 GAN)",
+            "url": "https://wikidocs.net/120290"
+        },
+        {
+            "id": 128394,
+            "name": "CRFs: conditional random fields (\uc870\uac74\ubd80 \ub79c\ub364 \ud544\ub4dc)",
+            "url": "https://wikidocs.net/128394"
+        },
+        {
+            "id": 149206,
+            "name": "CVAE: Conditional Variational Autoencoder (\uc870\uac74\ubd80 VAE)",
+            "url": "https://wikidocs.net/149206"
+        },
+        {
+            "id": 201324,
+            "name": "checkpoint (\uccb4\ud06c\ud3ec\uc778\ud2b8)",
+            "url": "https://wikidocs.net/201324"
+        },
+        {
+            "id": 120176,
+            "name": "clustering (\ud074\ub7ec\uc2a4\ud130\ub9c1, \uad70\uc9d1\ud654)",
+            "url": "https://wikidocs.net/120176"
+        },
+        {
+            "id": 120201,
+            "name": "collaborative filtering (\ud611\uc5c5 \ud544\ud130\ub9c1)",
+            "url": "https://wikidocs.net/120201"
+        },
+        {
+            "id": 120067,
+            "name": "computer vision (\ucef4\ud4e8\ud130 \ube44\uc804, \ucef4\ud4e8\ud130\ube44\uc804, \ucef4\ud4e8\ud130 \uc2dc\uac01)",
+            "url": "https://wikidocs.net/120067"
+        },
+        {
+            "id": 149268,
+            "name": "context window (\ucee8\ud14d\uc2a4\ud2b8 \uc708\ub3c4\uc6b0, \ubb38\ub9e5 \uc708\ub3c4\uc6b0, \ubb38\ub9e5 \ucc3d, \ubb38\ub9e5 \uc708\ub3c4, \ucf58\ud14d\uc2a4\ud2b8 \uc708\ub3c4)",
+            "url": "https://wikidocs.net/149268"
+        },
+        {
+            "id": 184731,
+            "name": "contrastive loss (\ub300\uc870 \uc190\uc2e4)",
+            "url": "https://wikidocs.net/184731"
+        },
+        {
+            "id": 141211,
+            "name": "coordinate descent (\uc88c\ud45c \ud558\uac15)",
+            "url": "https://wikidocs.net/141211"
+        },
+        {
+            "id": 179495,
+            "name": "corpus (\ub9d0\ubb49\uce58, \ucf54\ud37c\uc2a4)",
+            "url": "https://wikidocs.net/179495"
+        },
+        {
+            "id": 157190,
+            "name": "cross-entropy(\uad50\ucc28 \uc5d4\ud2b8\ub85c\ud53c)",
+            "url": "https://wikidocs.net/157190"
+        },
+        {
+            "id": 222640,
+            "name": "cross-validation (\uad50\ucc28 \uac80\uc99d)",
+            "url": "https://wikidocs.net/222640"
+        },
+        {
+            "id": 120292,
+            "name": "DCGAN: deep convolutional generative adversarial network",
+            "url": "https://wikidocs.net/120292"
+        },
+        {
+            "id": 223859,
+            "name": "DNN-HMM",
+            "url": "https://wikidocs.net/223859"
+        },
+        {
+            "id": 120152,
+            "name": "DNN: deep neural network (\uc2ec\uce35 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/120152"
+        },
+        {
+            "id": 120194,
+            "name": "DQN: deep Q-Network",
+            "url": "https://wikidocs.net/120194"
+        },
+        {
+            "id": 209706,
+            "name": "Define-by-run",
+            "url": "https://wikidocs.net/209706"
+        },
+        {
+            "id": 176449,
+            "name": "Diffusion Models",
+            "url": "https://wikidocs.net/176449"
+        },
+        {
+            "id": 120188,
+            "name": "Double DQN, DDQN",
+            "url": "https://wikidocs.net/120188"
+        },
+        {
+            "id": 198157,
+            "name": "The democratization of ML(\uba38\uc2e0\ub7ec\ub2dd\uc758 \ubbfc\uc8fc\ud654)",
+            "url": "https://wikidocs.net/198157"
+        },
+        {
+            "id": 120227,
+            "name": "data augmentation (\ub370\uc774\ud130 \uc99d\uac15)",
+            "url": "https://wikidocs.net/120227"
+        },
+        {
+            "id": 120144,
+            "name": "decision tree (\uacb0\uc815 \ud2b8\ub9ac)",
+            "url": "https://wikidocs.net/120144"
+        },
+        {
+            "id": 120064,
+            "name": "decision tree learning model (\uacb0\uc815\ud2b8\ub9ac \ud559\uc2b5 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/120064"
+        },
+        {
+            "id": 167322,
+            "name": "deductive learning (\uc5f0\uc5ed\uc801 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167322"
+        },
+        {
+            "id": 120195,
+            "name": "deep Q-learning (\uc2ec\uce35 Q-\ub7ec\ub2dd)",
+            "url": "https://wikidocs.net/120195"
+        },
+        {
+            "id": 120193,
+            "name": "deep reinforcement learning, deep RL (\uc2ec\uce35\uac15\ud654\ud559\uc2b5)",
+            "url": "https://wikidocs.net/120193"
+        },
+        {
+            "id": 126060,
+            "name": "dense layer (\ubc00\uc9d1 \uacc4\uce35), fully-connected layer (\uc644\uc804\uc5f0\uacb0\uce35, \uc804\uacb0\ud569\uce35)",
+            "url": "https://wikidocs.net/126060"
+        },
+        {
+            "id": 120068,
+            "name": "digital image processing (\ub514\uc9c0\ud138 \uc774\ubbf8\uc9c0 \ud504\ub85c\uc138\uc2f1)",
+            "url": "https://wikidocs.net/120068"
+        },
+        {
+            "id": 120366,
+            "name": "discount factor (\ud560\uc778\uc728)",
+            "url": "https://wikidocs.net/120366"
+        },
+        {
+            "id": 120053,
+            "name": "dropout (\ub4dc\ub86d\uc544\uc6c3)",
+            "url": "https://wikidocs.net/120053"
+        },
+        {
+            "id": 120406,
+            "name": "dynamic programming (\ub3d9\uc801 \uacc4\ud68d\ubc95)",
+            "url": "https://wikidocs.net/120406"
+        },
+        {
+            "id": 200967,
+            "name": "Entropy (\uc5d4\ud2b8\ub85c\ud53c)",
+            "url": "https://wikidocs.net/200967"
+        },
+        {
+            "id": 205361,
+            "name": "Explained Variance",
+            "url": "https://wikidocs.net/205361"
+        },
+        {
+            "id": 202624,
+            "name": "Exploding Gradient (\uadf8\ub798\ub514\uc5b8\ud2b8 \ud3ed\ubc1c)",
+            "url": "https://wikidocs.net/202624"
+        },
+        {
+            "id": 120091,
+            "name": "early stopping (\uc870\uae30 \uc911\ub2e8)",
+            "url": "https://wikidocs.net/120091"
+        },
+        {
+            "id": 141213,
+            "name": "embedding (\uc784\ubca0\ub529)",
+            "url": "https://wikidocs.net/141213"
+        },
+        {
+            "id": 204321,
+            "name": "end-to-end",
+            "url": "https://wikidocs.net/204321"
+        },
+        {
+            "id": 120277,
+            "name": "ensemble (\uc559\uc0c1\ube14)",
+            "url": "https://wikidocs.net/120277"
+        },
+        {
+            "id": 120361,
+            "name": "environment (\ud658\uacbd)",
+            "url": "https://wikidocs.net/120361"
+        },
+        {
+            "id": 120355,
+            "name": "episode (\uc5d0\ud53c\uc18c\ub4dc)",
+            "url": "https://wikidocs.net/120355"
+        },
+        {
+            "id": 120090,
+            "name": "epoch (\uc5d0\ud3ec\ud06c, \uc5d0\ud3ed, \uc138, \uc138\ub300)",
+            "url": "https://wikidocs.net/120090"
+        },
+        {
+            "id": 177876,
+            "name": "explanatory variable (\uc124\uba85 \ubcc0\uc218)",
+            "url": "https://wikidocs.net/177876"
+        },
+        {
+            "id": 167325,
+            "name": "exploration-exploitation trade-off (\ud0d0\uc0c9-\ud65c\uc6a9 \ud2b8\ub808\uc774\ub4dc\uc624\ud504)",
+            "url": "https://wikidocs.net/167325"
+        },
+        {
+            "id": 169097,
+            "name": "\u03f5-greedy (\u03f5 \ud0d0\uc695)",
+            "url": "https://wikidocs.net/169097"
+        },
+        {
+            "id": 176148,
+            "name": "FNN: feed-forward neural networks (\ud53c\ub4dc\ud3ec\uc6cc\ub4dc \uc2e0\uacbd\ub9dd, \uc21c\ubc29\ud5a5 \uc2e0\uacbd\ub9dd, \uc55e\uba39\uc784 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/176148"
+        },
+        {
+            "id": 204814,
+            "name": "FP: feature permutation",
+            "url": "https://wikidocs.net/204814"
+        },
+        {
+            "id": 202611,
+            "name": "FPN: Feature Pyramid Networks (\ud2b9\uc9d5 \ud53c\ub77c\ubbf8\ub4dc\ub9dd)",
+            "url": "https://wikidocs.net/202611"
+        },
+        {
+            "id": 120066,
+            "name": "Fashion MNIST",
+            "url": "https://wikidocs.net/120066"
+        },
+        {
+            "id": 148349,
+            "name": "feature engineering (\ud2b9\uc9d5 \uacf5\ud559)",
+            "url": "https://wikidocs.net/148349"
+        },
+        {
+            "id": 167327,
+            "name": "few-shot learning (\ud4e8\uc0f7 \ub7ec\ub2dd)",
+            "url": "https://wikidocs.net/167327"
+        },
+        {
+            "id": 120208,
+            "name": "fine-tuning (\ud30c\uc778 \ud29c\ub2dd, \ubbf8\uc138 \uc870\uc815)",
+            "url": "https://wikidocs.net/120208"
+        },
+        {
+            "id": 157192,
+            "name": "forward propagation (\uc21c\uc804\ud30c)",
+            "url": "https://wikidocs.net/157192"
+        },
+        {
+            "id": 120088,
+            "name": "fully-connected (\uc644\uc804 \uc5f0\uacb0, \uc804\uacb0\ud569)",
+            "url": "https://wikidocs.net/120088"
+        },
+        {
+            "id": 120291,
+            "name": "GAN: Generative Adversarial Networks (\uc0dd\uc131\uc801 \uc801\ub300 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/120291"
+        },
+        {
+            "id": 223858,
+            "name": "GMM-HMM: Gaussian Mixture Model-Hidden Markov Model",
+            "url": "https://wikidocs.net/223858"
+        },
+        {
+            "id": 223857,
+            "name": "GMM: Gaussian Mixture Model",
+            "url": "https://wikidocs.net/223857"
+        },
+        {
+            "id": 167338,
+            "name": "GNN: Graph Neural Network (\uadf8\ub798\ud504 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/167338"
+        },
+        {
+            "id": 169098,
+            "name": "GPT: Generative Pretrained Transformer",
+            "url": "https://wikidocs.net/169098"
+        },
+        {
+            "id": 120326,
+            "name": "GRU: Gated Recurrent Unit",
+            "url": "https://wikidocs.net/120326"
+        },
+        {
+            "id": 222635,
+            "name": "Glove",
+            "url": "https://wikidocs.net/222635"
+        },
+        {
+            "id": 121719,
+            "name": "GoogleNet",
+            "url": "https://wikidocs.net/121719"
+        },
+        {
+            "id": 157189,
+            "name": "generative model(\uc0dd\uc131 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/157189"
+        },
+        {
+            "id": 204828,
+            "name": "gradient (\uacbd\uc0ac, \uadf8\ub798\ub514\uc5b8\ud2b8, \uadf8\ub808\uc774\ub514\uc5b8\ud2b8, \uae30\uc6b8\uae30, \uad6c\ubc30, \ubb3c\ub9e4)",
+            "url": "https://wikidocs.net/204828"
+        },
+        {
+            "id": 120156,
+            "name": "gradient descent (\uacbd\uc0ac \ud558\uac15\ubc95, \uacbd\uc0ac \uac10\uc18c\ubc95, \uadf8\ub798\ub514\uc5b8\ud2b8 \ub514\uc13c\ud2b8)",
+            "url": "https://wikidocs.net/120156"
+        },
+        {
+            "id": 166989,
+            "name": "grid search (\uadf8\ub9ac\ub4dc \ud0d0\uc0c9, \uadf8\ub9ac\ub4dc \uc11c\uce58, \uaca9\uc790 \uac80\uc0c9)",
+            "url": "https://wikidocs.net/166989"
+        },
+        {
+            "id": 169014,
+            "name": "ground truth (\uc2e4\uce21 \uc790\ub8cc)",
+            "url": "https://wikidocs.net/169014"
+        },
+        {
+            "id": 120061,
+            "name": "HMM: hidden Markov model (\uc740\ub2c9 \ub9c8\ub974\ucf54\ud504 \ubaa8\ud615)",
+            "url": "https://wikidocs.net/120061"
+        },
+        {
+            "id": 185640,
+            "name": "Hamming score (\ud574\ubc0d \uc810\uc218)",
+            "url": "https://wikidocs.net/185640"
+        },
+        {
+            "id": 184729,
+            "name": "hard negative",
+            "url": "https://wikidocs.net/184729"
+        },
+        {
+            "id": 166993,
+            "name": "hidden layer (\uc740\ub2c9\uce35, \uc740\ub2c9 \uacc4\uce35, \ud788\ub4e0 \ub808\uc774\uc5b4)",
+            "url": "https://wikidocs.net/166993"
+        },
+        {
+            "id": 120155,
+            "name": "hierarchical clustering(\uacc4\uce35\uc801 \uad70\uc9d1\ud654, \uacc4\uce35\uc801 \ud074\ub7ec\uc2a4\ud130\ub9c1)",
+            "url": "https://wikidocs.net/120155"
+        },
+        {
+            "id": 152159,
+            "name": "hyperbolic tangent, tanh (\ud558\uc774\ud37c\ubcfc\ub9ad \ud0c4\uc820\ud2b8, \uc30d\uace1 \ud0c4\uc820\ud2b8)",
+            "url": "https://wikidocs.net/152159"
+        },
+        {
+            "id": 120048,
+            "name": "hyperparameter(\ud558\uc774\ud37c\ud30c\ub77c\ubbf8\ud130, \ucd08\ub9e4\uac1c\ubcc0\uc218, \ud558\uc774\ud37c\ub9e4\uac1c\ubcc0\uc218)",
+            "url": "https://wikidocs.net/120048"
+        },
+        {
+            "id": 120397,
+            "name": "hyperplane (\ucd08\ud3c9\uba74)",
+            "url": "https://wikidocs.net/120397"
+        },
+        {
+            "id": 204777,
+            "name": "IG: Integrated Gradients (\uc801\ubd84 \uacbd\uc0ac, \ud1b5\ud569 \uacbd\uc0ac)",
+            "url": "https://wikidocs.net/204777"
+        },
+        {
+            "id": 222511,
+            "name": "Instance Segmentation (\uc778\uc2a4\ud134\uc2a4 \uc138\uadf8\uba58\ud14c\uc774\uc158)",
+            "url": "https://wikidocs.net/222511"
+        },
+        {
+            "id": 209698,
+            "name": "Isolation Forest",
+            "url": "https://wikidocs.net/209698"
+        },
+        {
+            "id": 120210,
+            "name": "image classcification (\uc774\ubbf8\uc9c0 \ubd84\ub958)",
+            "url": "https://wikidocs.net/120210"
+        },
+        {
+            "id": 202613,
+            "name": "image segmentation (\uc774\ubbf8\uc9c0 \uc138\uadf8\uba58\ud14c\uc774\uc158, \uc774\ubbf8\uc9c0 \uc138\ubd84\ud654, \uc774\ubbf8\uc9c0 \ubd84\ud560)",
+            "url": "https://wikidocs.net/202613"
+        },
+        {
+            "id": 149212,
+            "name": "image-to-image translation",
+            "url": "https://wikidocs.net/149212"
+        },
+        {
+            "id": 120322,
+            "name": "independent variable (\ub3c5\ub9bd\ubcc0\uc218)",
+            "url": "https://wikidocs.net/120322"
+        },
+        {
+            "id": 167323,
+            "name": "inductive learning (\uadc0\ub0a9\uc801 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167323"
+        },
+        {
+            "id": 120169,
+            "name": "inference (\ucd94\ub860)",
+            "url": "https://wikidocs.net/120169"
+        },
+        {
+            "id": 120282,
+            "name": "interpolation (\ubcf4\uac04)",
+            "url": "https://wikidocs.net/120282"
+        },
+        {
+            "id": 178041,
+            "name": "KLD: Kullback\u2013Leibler divergence (\ucfe8\ubc31-\ub77c\uc774\ube14\ub7ec \ubc1c\uc0b0)",
+            "url": "https://wikidocs.net/178041"
+        },
+        {
+            "id": 222644,
+            "name": "k-fold cross-validation (k-\uacb9 \uad50\ucc28 \uac80\uc99d)",
+            "url": "https://wikidocs.net/222644"
+        },
+        {
+            "id": 120154,
+            "name": "k-means clustering (k \ud3c9\uade0 \uad70\uc9d1\ubc95)",
+            "url": "https://wikidocs.net/120154"
+        },
+        {
+            "id": 120085,
+            "name": "k-nearest neighbors (k \ucd5c\uadfc\uc811 \uc774\uc6c3)",
+            "url": "https://wikidocs.net/120085"
+        },
+        {
+            "id": 120279,
+            "name": "k-\ud3f4\ub4dc \ud3c9\uade0 \uc559\uc0c1\ube14",
+            "url": "https://wikidocs.net/120279"
+        },
+        {
+            "id": 129144,
+            "name": "knowledge base (\uc9c0\uc2dd \ubca0\uc774\uc2a4)",
+            "url": "https://wikidocs.net/129144"
+        },
+        {
+            "id": 120206,
+            "name": "koNLPy",
+            "url": "https://wikidocs.net/120206"
+        },
+        {
+            "id": 152832,
+            "name": "L2 normalization",
+            "url": "https://wikidocs.net/152832"
+        },
+        {
+            "id": 152833,
+            "name": "L2 regularization",
+            "url": "https://wikidocs.net/152833"
+        },
+        {
+            "id": 223854,
+            "name": "LAS: Listen, Attend and Spell",
+            "url": "https://wikidocs.net/223854"
+        },
+        {
+            "id": 157671,
+            "name": "LDA: Latent Dirichlet Allocation (\uc7a0\uc7ac \ub514\ub9ac\ud074\ub808 \ud560\ub2f9)",
+            "url": "https://wikidocs.net/157671"
+        },
+        {
+            "id": 174293,
+            "name": "LDA: Linear Discriminant Analysis (\uc120\ud615 \ud310\ubcc4 \ubd84\uc11d\ubc95)",
+            "url": "https://wikidocs.net/174293"
+        },
+        {
+            "id": 198206,
+            "name": "LIMA: Less Is More for Alignment",
+            "url": "https://wikidocs.net/198206"
+        },
+        {
+            "id": 120086,
+            "name": "LSTM: long short-term memory (\uc7a5\ub2e8\uae30 \uba54\ubaa8\ub9ac)",
+            "url": "https://wikidocs.net/120086"
+        },
+        {
+            "id": 200922,
+            "name": "Latent Variable Models (\uc7a0\uc7ac \ubcc0\uc218 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/200922"
+        },
+        {
+            "id": 156949,
+            "name": "Leaky ReLU (\ub9ac\ud0a4 \ub810\ub8e8, \ub204\ucd9c ReLU, \ub204\uc124 ReLU)",
+            "url": "https://wikidocs.net/156949"
+        },
+        {
+            "id": 120215,
+            "name": "language model (\uc5b8\uc5b4 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/120215"
+        },
+        {
+            "id": 167321,
+            "name": "learning (\ud559\uc2b5)",
+            "url": "https://wikidocs.net/167321"
+        },
+        {
+            "id": 126061,
+            "name": "learning rate (\ud559\uc2b5\ub960)",
+            "url": "https://wikidocs.net/126061"
+        },
+        {
+            "id": 141212,
+            "name": "local minima (\uadf9\uc18c\uc810)",
+            "url": "https://wikidocs.net/141212"
+        },
+        {
+            "id": 177870,
+            "name": "logistic (\ub85c\uc9c0\uc2a4\ud2f1) \ud568\uc218",
+            "url": "https://wikidocs.net/177870"
+        },
+        {
+            "id": 177873,
+            "name": "logit (\ub85c\uc9d3, \ub85c\uc9c0\ud2b8) \ud568\uc218",
+            "url": "https://wikidocs.net/177873"
+        },
+        {
+            "id": 120077,
+            "name": "loss function (\uc190\uc2e4 \ud568\uc218), cost function (\ube44\uc6a9 \ud568\uc218)",
+            "url": "https://wikidocs.net/120077"
+        },
+        {
+            "id": 168958,
+            "name": "MAB: Multi-Armed Bandits (\uc5ec\ub7ec \ub300\uc758 \uc2ac\ub86f\uba38\uc2e0)",
+            "url": "https://wikidocs.net/168958"
+        },
+        {
+            "id": 120150,
+            "name": "MDP: Markov decision process (\ub9c8\ub974\ucf54\ud504 \uacb0\uc815 \uacfc\uc815)",
+            "url": "https://wikidocs.net/120150"
+        },
+        {
+            "id": 120274,
+            "name": "MLE: maximum likelihood estimation (\ucd5c\ub300\uc6b0\ub3c4\ubc95, \ucd5c\uc6b0\ub3c4\ubc95, \ucd5c\ub300\uc6b0\ub3c4\ucd94\uc815)",
+            "url": "https://wikidocs.net/120274"
+        },
+        {
+            "id": 156948,
+            "name": "MLP: multilayer perceptron (\ub2e4\uce35 \ud37c\uc149\ud2b8\ub860)",
+            "url": "https://wikidocs.net/156948"
+        },
+        {
+            "id": 120171,
+            "name": "MNIST",
+            "url": "https://wikidocs.net/120171"
+        },
+        {
+            "id": 170549,
+            "name": "MSE: Mean Squared Error (\ud3c9\uade0 \uc81c\uacf1 \uc624\ucc28)",
+            "url": "https://wikidocs.net/170549"
+        },
+        {
+            "id": 222502,
+            "name": "MT: Machine Translation (\uae30\uacc4 \ubc88\uc5ed)",
+            "url": "https://wikidocs.net/222502"
+        },
+        {
+            "id": 120373,
+            "name": "Markov process (\ub9c8\ub974\ucf54\ud504 \uacfc\uc815)",
+            "url": "https://wikidocs.net/120373"
+        },
+        {
+            "id": 120374,
+            "name": "Markov property (\ub9c8\ub974\ucf54\ud504 \uc131\uc9c8)",
+            "url": "https://wikidocs.net/120374"
+        },
+        {
+            "id": 120372,
+            "name": "Markov reward process (\ub9c8\ub974\ucf54\ud504 \ubcf4\uc0c1 \uacfc\uc815)",
+            "url": "https://wikidocs.net/120372"
+        },
+        {
+            "id": 120405,
+            "name": "Monte Carlo Methods (\ubaac\ud14c\uce74\ub97c\ub85c \ubc29\ubc95)",
+            "url": "https://wikidocs.net/120405"
+        },
+        {
+            "id": 222524,
+            "name": "Multiclass Classification (\ub2e4\uc911 \ud074\ub798\uc2a4 \ubd84\ub958)",
+            "url": "https://wikidocs.net/222524"
+        },
+        {
+            "id": 120147,
+            "name": "maze (\ubbf8\ub85c)",
+            "url": "https://wikidocs.net/120147"
+        },
+        {
+            "id": 167326,
+            "name": "meta-learning (\uba54\ud0c0 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167326"
+        },
+        {
+            "id": 145063,
+            "name": "mini-batch gradient descent (\ubbf8\ub2c8 \ubc30\uce58 \uacbd\uc0ac \ud558\uac15\ubc95)",
+            "url": "https://wikidocs.net/145063"
+        },
+        {
+            "id": 183396,
+            "name": "model (\ubaa8\ub378)",
+            "url": "https://wikidocs.net/183396"
+        },
+        {
+            "id": 167335,
+            "name": "model-based learning (\ubaa8\ub378 \uae30\ubc18 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167335"
+        },
+        {
+            "id": 167336,
+            "name": "model-free learning (\ubaa8\ub378\uc774 \ud544\uc694 \uc5c6\ub294 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167336"
+        },
+        {
+            "id": 222504,
+            "name": "NER: Named Entity Recognition (\uac1c\uccb4\uba85 \uc778\uc2dd)",
+            "url": "https://wikidocs.net/222504"
+        },
+        {
+            "id": 222499,
+            "name": "NLG: Natural Language Generation (\uc790\uc5f0\uc5b4 \uc0dd\uc131)",
+            "url": "https://wikidocs.net/222499"
+        },
+        {
+            "id": 120214,
+            "name": "NLP: Natural Language Processing (\uc790\uc5f0\uc5b4 \ucc98\ub9ac)",
+            "url": "https://wikidocs.net/120214"
+        },
+        {
+            "id": 120204,
+            "name": "NLTK: Natural Language Toolkit",
+            "url": "https://wikidocs.net/120204"
+        },
+        {
+            "id": 222498,
+            "name": "NLU: Natural Language Understanding (\uc790\uc5f0\uc5b4 \uc774\ud574)",
+            "url": "https://wikidocs.net/222498"
+        },
+        {
+            "id": 209701,
+            "name": "NMF: Non-negative Matrix Factorization (\ube44\uc74c\uc218 \ud589\ub82c \ubd84\ud574)",
+            "url": "https://wikidocs.net/209701"
+        },
+        {
+            "id": 222631,
+            "name": "NNLM: Neural Network Language Model",
+            "url": "https://wikidocs.net/222631"
+        },
+        {
+            "id": 120271,
+            "name": "Naive Bayesian Model (\ub2e8\uc21c \ubca0\uc774\uc988 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/120271"
+        },
+        {
+            "id": 142041,
+            "name": "Naver sentiment movie corpus",
+            "url": "https://wikidocs.net/142041"
+        },
+        {
+            "id": 128395,
+            "name": "Non-parametric(\ube44\ubaa8\uc218)",
+            "url": "https://wikidocs.net/128395"
+        },
+        {
+            "id": 120070,
+            "name": "Numpy (\ub118\ud30c\uc774)",
+            "url": "https://wikidocs.net/120070"
+        },
+        {
+            "id": 222632,
+            "name": "n-gram",
+            "url": "https://wikidocs.net/222632"
+        },
+        {
+            "id": 120267,
+            "name": "nDCG: normalized Discounted Cumulative Gain",
+            "url": "https://wikidocs.net/120267"
+        },
+        {
+            "id": 120196,
+            "name": "neuron (\ub274\ub7f0)",
+            "url": "https://wikidocs.net/120196"
+        },
+        {
+            "id": 145647,
+            "name": "notMNIST",
+            "url": "https://wikidocs.net/145647"
+        },
+        {
+            "id": 210835,
+            "name": "ONNX: Open Neural Network Exchange",
+            "url": "https://wikidocs.net/210835"
+        },
+        {
+            "id": 126051,
+            "name": "On-Device Machine Learning (\uc628\ub514\ubc14\uc774\uc2a4 \uba38\uc2e0\ub7ec\ub2dd)",
+            "url": "https://wikidocs.net/126051"
+        },
+        {
+            "id": 183176,
+            "name": "One-Hot encoding (\uc6d0\ud56b \uc778\ucf54\ub529)",
+            "url": "https://wikidocs.net/183176"
+        },
+        {
+            "id": 222510,
+            "name": "Optimization Algorithm (\ucd5c\uc801\ud654 \uc54c\uace0\ub9ac\uc998)",
+            "url": "https://wikidocs.net/222510"
+        },
+        {
+            "id": 120072,
+            "name": "object detection (\uac1d\uccb4 \ud0d0\uc9c0, \uac1d\uccb4 \uac80\ucd9c)",
+            "url": "https://wikidocs.net/120072"
+        },
+        {
+            "id": 202614,
+            "name": "object recognition (\uac1d\uccb4 \uc778\uc2dd)",
+            "url": "https://wikidocs.net/202614"
+        },
+        {
+            "id": 177874,
+            "name": "odds (\uc624\uc988, \uc2b9\uc0b0\ube44, \ube44\uc728\ube44)",
+            "url": "https://wikidocs.net/177874"
+        },
+        {
+            "id": 120071,
+            "name": "optical character recognition (\uad11\ud559 \ubb38\uc790 \uc778\uc2dd)",
+            "url": "https://wikidocs.net/120071"
+        },
+        {
+            "id": 148627,
+            "name": "optimization problem (\ucd5c\uc801\ud654 \ubb38\uc81c)",
+            "url": "https://wikidocs.net/148627"
+        },
+        {
+            "id": 120050,
+            "name": "optimizer function (\ucd5c\uc801\ud654 \ud568\uc218)",
+            "url": "https://wikidocs.net/120050"
+        },
+        {
+            "id": 120163,
+            "name": "overtraining, overfitting (\uacfc\uc801\ud569)",
+            "url": "https://wikidocs.net/120163"
+        },
+        {
+            "id": 222500,
+            "name": "PPO: Proximal Policy Optimization",
+            "url": "https://wikidocs.net/222500"
+        },
+        {
+            "id": 222491,
+            "name": "PReLU: Parametric ReLU (\ub9e4\uac1c\ubcc0\uc218\uc801 ReLU)",
+            "url": "https://wikidocs.net/222491"
+        },
+        {
+            "id": 170548,
+            "name": "Pong (\ud401)",
+            "url": "https://wikidocs.net/170548"
+        },
+        {
+            "id": 179492,
+            "name": "Py-hanspell (\ud30c\uc774\uc36c \ud55c\uae00 \ub9de\ucda4\ubc95 \uac80\uc0ac \ub77c\uc774\ube0c\ub7ec\ub9ac. \ub124\uc774\ubc84 \ub9de\ucda4\ubc95 \uac80\uc0ac\uae30 \uc0ac\uc6a9)",
+            "url": "https://wikidocs.net/179492"
+        },
+        {
+            "id": 179493,
+            "name": "PyKoSpacing (Automatic Korean word spacing with Python)",
+            "url": "https://wikidocs.net/179493"
+        },
+        {
+            "id": 145648,
+            "name": "PyTorch (\ud30c\uc774\ud1a0\uce58)",
+            "url": "https://wikidocs.net/145648"
+        },
+        {
+            "id": 120062,
+            "name": "parameter (\ubaa8\uc218)",
+            "url": "https://wikidocs.net/120062"
+        },
+        {
+            "id": 120084,
+            "name": "perceptron (\ud37c\uc149\ud2b8\ub860)",
+            "url": "https://wikidocs.net/120084"
+        },
+        {
+            "id": 222633,
+            "name": "perplexity",
+            "url": "https://wikidocs.net/222633"
+        },
+        {
+            "id": 120363,
+            "name": "policy (\uc815\ucc45)",
+            "url": "https://wikidocs.net/120363"
+        },
+        {
+            "id": 163304,
+            "name": "policy gradient (\uc815\ucc45 \uacbd\uc0ac, \uc815\ucc45 \uae30\uc6b8\uae30)",
+            "url": "https://wikidocs.net/163304"
+        },
+        {
+            "id": 120049,
+            "name": "polynomial regression (\ub2e4\ud56d \ud68c\uadc0)",
+            "url": "https://wikidocs.net/120049"
+        },
+        {
+            "id": 182319,
+            "name": "pooling (\ud480\ub9c1)",
+            "url": "https://wikidocs.net/182319"
+        },
+        {
+            "id": 145649,
+            "name": "pre-training (\uc0ac\uc804 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/145649"
+        },
+        {
+            "id": 120364,
+            "name": "Q value (Q\uac12)",
+            "url": "https://wikidocs.net/120364"
+        },
+        {
+            "id": 120148,
+            "name": "Q-Learning (Q\ub7ec\ub2dd)",
+            "url": "https://wikidocs.net/120148"
+        },
+        {
+            "id": 222514,
+            "name": "R-CNN",
+            "url": "https://wikidocs.net/222514"
+        },
+        {
+            "id": 141215,
+            "name": "RBM: restricted Boltzmann machine (\uc81c\uc57d \ubcfc\uce20\ub9cc \uba38\uc2e0)",
+            "url": "https://wikidocs.net/141215"
+        },
+        {
+            "id": 120074,
+            "name": "REDNet",
+            "url": "https://wikidocs.net/120074"
+        },
+        {
+            "id": 168954,
+            "name": "REINFORCE",
+            "url": "https://wikidocs.net/168954"
+        },
+        {
+            "id": 152835,
+            "name": "RMSProp",
+            "url": "https://wikidocs.net/152835"
+        },
+        {
+            "id": 120325,
+            "name": "RNN: Recurrent Neural Network (\uc21c\ud658 \uc2e0\uacbd\ub9dd)",
+            "url": "https://wikidocs.net/120325"
+        },
+        {
+            "id": 222637,
+            "name": "Rule-based system (\uaddc\uce59 \uae30\ubc18 \uc2dc\uc2a4\ud15c)",
+            "url": "https://wikidocs.net/222637"
+        },
+        {
+            "id": 120230,
+            "name": "recommender systems (\ucd94\ucc9c \uc2dc\uc2a4\ud15c)",
+            "url": "https://wikidocs.net/120230"
+        },
+        {
+            "id": 120320,
+            "name": "regression line (\ud68c\uadc0\uc9c1\uc120)",
+            "url": "https://wikidocs.net/120320"
+        },
+        {
+            "id": 120052,
+            "name": "regularization (\uc815\uaddc\ud654, \uc815\uce59\ud654, \uaddc\uc81c\ud654, \uaddc\uce59\ud654)",
+            "url": "https://wikidocs.net/120052"
+        },
+        {
+            "id": 120224,
+            "name": "representation learning (\ud45c\ud604 \ud559\uc2b5, \ud45c\uc0c1 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/120224"
+        },
+        {
+            "id": 129665,
+            "name": "residual connection (\uc794\ucc28 \uc5f0\uacb0, \ub9ac\uc9c0\ub4c0\uc5bc \ucee4\ub125\uc158)",
+            "url": "https://wikidocs.net/129665"
+        },
+        {
+            "id": 177877,
+            "name": "response variable (\ubc18\uc751 \ubcc0\uc218)",
+            "url": "https://wikidocs.net/177877"
+        },
+        {
+            "id": 120356,
+            "name": "reward (\ubcf4\uc0c1)",
+            "url": "https://wikidocs.net/120356"
+        },
+        {
+            "id": 170691,
+            "name": "rollout (\ub864\uc544\uc6c3)",
+            "url": "https://wikidocs.net/170691"
+        },
+        {
+            "id": 120078,
+            "name": "SGD: stochastic gradient descent (\ud655\ub960\uc801 \uacbd\uc0ac \ud558\uac15\ubc95)",
+            "url": "https://wikidocs.net/120078"
+        },
+        {
+            "id": 216700,
+            "name": "SMOTE: Synthetic Minority Over-sampling Technique",
+            "url": "https://wikidocs.net/216700"
+        },
+        {
+            "id": 120143,
+            "name": "SVM: support vector machine (\uc11c\ud3ec\ud2b8 \ubca1\ud130 \uba38\uc2e0)",
+            "url": "https://wikidocs.net/120143"
+        },
+        {
+            "id": 158319,
+            "name": "Sequence to Sequence (\uc2dc\ud000\uc2a4 \ud22c \uc2dc\ud000\uc2a4)",
+            "url": "https://wikidocs.net/158319"
+        },
+        {
+            "id": 202621,
+            "name": "Skip Connection (\uc2a4\ud0b5 \uc5f0\uacb0)",
+            "url": "https://wikidocs.net/202621"
+        },
+        {
+            "id": 176447,
+            "name": "Stable Diffusion",
+            "url": "https://wikidocs.net/176447"
+        },
+        {
+            "id": 175381,
+            "name": "Swish",
+            "url": "https://wikidocs.net/175381"
+        },
+        {
+            "id": 221149,
+            "name": "saddle point (\uc548\uc7a5\uc810)",
+            "url": "https://wikidocs.net/221149"
+        },
+        {
+            "id": 201325,
+            "name": "safetensors",
+            "url": "https://wikidocs.net/201325"
+        },
+        {
+            "id": 148850,
+            "name": "saturate (\ud3ec\ud654)",
+            "url": "https://wikidocs.net/148850"
+        },
+        {
+            "id": 167320,
+            "name": "self-supervised learning (\uc790\uae30 \uc9c0\ub3c4 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/167320"
+        },
+        {
+            "id": 120209,
+            "name": "semantic segmentation (\uc758\ubbf8\ub860\uc801 \uc138\uadf8\uba58\ud14c\uc774\uc158)",
+            "url": "https://wikidocs.net/120209"
+        },
+        {
+            "id": 120199,
+            "name": "semi-supervised learning(\uc900\uc9c0\ub3c4 \ud559\uc2b5, \uc9c0\ub3c4/\uc790\uc728 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/120199"
+        },
+        {
+            "id": 120217,
+            "name": "sentiment analysis (\uac10\uc131 \ubd84\uc11d)",
+            "url": "https://wikidocs.net/120217"
+        },
+        {
+            "id": 120042,
+            "name": "sequence data (\uc2dc\ud000\uc2a4 \ub370\uc774\ud130)",
+            "url": "https://wikidocs.net/120042"
+        },
+        {
+            "id": 120083,
+            "name": "sigmoid (\uc2dc\uadf8\ubaa8\uc774\ub4dc)",
+            "url": "https://wikidocs.net/120083"
+        },
+        {
+            "id": 167006,
+            "name": "simulated annealing (\uc2dc\ubbac\ub808\uc774\ud2f0\ub4dc \uc5b4\ub2d0\ub9c1)",
+            "url": "https://wikidocs.net/167006"
+        },
+        {
+            "id": 120073,
+            "name": "skip connection (\uc794\ucc28 \uc5f0\uacb0, \uac74\ub108\ub6f4 \uc5f0\uacb0)",
+            "url": "https://wikidocs.net/120073"
+        },
+        {
+            "id": 120089,
+            "name": "softmax (\uc18c\ud504\ud2b8\ub9e5\uc2a4)",
+            "url": "https://wikidocs.net/120089"
+        },
+        {
+            "id": 179494,
+            "name": "soynlp",
+            "url": "https://wikidocs.net/179494"
+        },
+        {
+            "id": 120069,
+            "name": "sparse matrix (\ud76c\uc18c \ud589\ub82c)",
+            "url": "https://wikidocs.net/120069"
+        },
+        {
+            "id": 222634,
+            "name": "sparsity problem (\ud76c\uc18c\uc131 \ubb38\uc81c)",
+            "url": "https://wikidocs.net/222634"
+        },
+        {
+            "id": 120241,
+            "name": "speech recognition (\uc74c\uc131 \uc778\uc2dd)",
+            "url": "https://wikidocs.net/120241"
+        },
+        {
+            "id": 120063,
+            "name": "standard deviation (\ud45c\uc900 \ud3b8\ucc28)",
+            "url": "https://wikidocs.net/120063"
+        },
+        {
+            "id": 120357,
+            "name": "state (\uc0c1\ud0dc)",
+            "url": "https://wikidocs.net/120357"
+        },
+        {
+            "id": 122752,
+            "name": "state transition (\uc0c1\ud0dc \uc804\uc774)",
+            "url": "https://wikidocs.net/122752"
+        },
+        {
+            "id": 159039,
+            "name": "stemming (\uc5b4\uac04 \ucd94\ucd9c)",
+            "url": "https://wikidocs.net/159039"
+        },
+        {
+            "id": 120205,
+            "name": "snowball stemming",
+            "url": "https://wikidocs.net/120205"
+        },
+        {
+            "id": 120075,
+            "name": "super resolution (\ucd08\ud574\uc0c1\ub3c4)",
+            "url": "https://wikidocs.net/120075"
+        },
+        {
+            "id": 120172,
+            "name": "supervised learning (\uc9c0\ub3c4\ud559\uc2b5)",
+            "url": "https://wikidocs.net/120172"
+        },
+        {
+            "id": 169096,
+            "name": "TDM: Term Document Matrix",
+            "url": "https://wikidocs.net/169096"
+        },
+        {
+            "id": 163306,
+            "name": "TDM: temporal difference model (\uc2dc\uac04\ucc28 \ubaa8\ub378)",
+            "url": "https://wikidocs.net/163306"
+        },
+        {
+            "id": 145650,
+            "name": "Tensor (\ud150\uc11c)",
+            "url": "https://wikidocs.net/145650"
+        },
+        {
+            "id": 126052,
+            "name": "TensorFlow Lite (\ud150\uc11c\ud50c\ub85c \ub77c\uc774\ud2b8)",
+            "url": "https://wikidocs.net/126052"
+        },
+        {
+            "id": 126053,
+            "name": "TensorFlow.js",
+            "url": "https://wikidocs.net/126053"
+        },
+        {
+            "id": 222521,
+            "name": "text classification (\ud14d\uc2a4\ud2b8 \ubd84\ub958)",
+            "url": "https://wikidocs.net/222521"
+        },
+        {
+            "id": 222503,
+            "name": "text mining (\ud14d\uc2a4\ud2b8 \ub9c8\uc774\ub2dd)",
+            "url": "https://wikidocs.net/222503"
+        },
+        {
+            "id": 158318,
+            "name": "text similarity (\ud14d\uc2a4\ud2b8 \uc720\uc0ac\ub3c4)",
+            "url": "https://wikidocs.net/158318"
+        },
+        {
+            "id": 120245,
+            "name": "time series anaylisis (\uc2dc\uacc4\uc5f4 \ubd84\uc11d)",
+            "url": "https://wikidocs.net/120245"
+        },
+        {
+            "id": 120248,
+            "name": "time series classification",
+            "url": "https://wikidocs.net/120248"
+        },
+        {
+            "id": 120249,
+            "name": "time series forecasting (\uc2dc\uacc4\uc5f4 \uc608\uce21)",
+            "url": "https://wikidocs.net/120249"
+        },
+        {
+            "id": 120398,
+            "name": "training dataset (\ud6c8\ub828 \ub370\uc774\ud130\uc14b)",
+            "url": "https://wikidocs.net/120398"
+        },
+        {
+            "id": 146206,
+            "name": "trajectory (\uada4\uc801)",
+            "url": "https://wikidocs.net/146206"
+        },
+        {
+            "id": 120225,
+            "name": "transfer learning (\uc804\uc774 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/120225"
+        },
+        {
+            "id": 120087,
+            "name": "transformer (\ud2b8\ub79c\uc2a4\ud3ec\uba38)",
+            "url": "https://wikidocs.net/120087"
+        },
+        {
+            "id": 122751,
+            "name": "transition",
+            "url": "https://wikidocs.net/122751"
+        },
+        {
+            "id": 184728,
+            "name": "triplet loss (\uc0bc\uc911\ud56d \uc190\uc2e4)",
+            "url": "https://wikidocs.net/184728"
+        },
+        {
+            "id": 184730,
+            "name": "triplet mining",
+            "url": "https://wikidocs.net/184730"
+        },
+        {
+            "id": 184732,
+            "name": "UCN: universal correspondence network",
+            "url": "https://wikidocs.net/184732"
+        },
+        {
+            "id": 120198,
+            "name": "unsupervised learning (\ube44\uc9c0\ub3c4 \ud559\uc2b5)",
+            "url": "https://wikidocs.net/120198"
+        },
+        {
+            "id": 120289,
+            "name": "VAE: Variational Autoencoder (\ubcc0\ubd84 \uc624\ud1a0\uc778\ucf54\ub354)",
+            "url": "https://wikidocs.net/120289"
+        },
+        {
+            "id": 149213,
+            "name": "Vanishing Gradient (\uadf8\ub798\ub514\uc5b8\ud2b8 \uc18c\uc2e4, \uacbd\uc0ac \uc18c\uc2e4, \uae30\uc6b8\uae30 \uc18c\uc2e4)",
+            "url": "https://wikidocs.net/149213"
+        },
+        {
+            "id": 219121,
+            "name": "ViT: Vision Transformer (\ube44\uc804 \ud2b8\ub79c\uc2a4\ud3ec\uba38)",
+            "url": "https://wikidocs.net/219121"
+        },
+        {
+            "id": 120284,
+            "name": "validation data (\uac80\uc99d \ub370\uc774\ud130, \uc720\ud6a8\uc131 \ub370\uc774\ud130)",
+            "url": "https://wikidocs.net/120284"
+        },
+        {
+            "id": 120368,
+            "name": "value (\uac00\uce58)",
+            "url": "https://wikidocs.net/120368"
+        },
+        {
+            "id": 120407,
+            "name": "value function (\uac00\uce58 \ud568\uc218)",
+            "url": "https://wikidocs.net/120407"
+        },
+        {
+            "id": 120046,
+            "name": "WRMSE: Weighted Root Mean Square Error",
+            "url": "https://wikidocs.net/120046"
+        },
+        {
+            "id": 120285,
+            "name": "weight (\uac00\uc911\uce58)",
+            "url": "https://wikidocs.net/120285"
+        },
+        {
+            "id": 120226,
+            "name": "word embedding (\ub2e8\uc5b4 \uc784\ubca0\ub529)",
+            "url": "https://wikidocs.net/120226"
+        },
+        {
+            "id": 142562,
+            "name": "word2vec",
+            "url": "https://wikidocs.net/142562"
+        },
+        {
+            "id": 188510,
+            "name": "XAI: eXplainable AI (\uc124\uba85 \uac00\ub2a5 \uc778\uacf5\uc9c0\ub2a5)",
+            "url": "https://wikidocs.net/188510"
+        },
+        {
+            "id": 120044,
+            "name": "XGBoost(eXtra Gradient Boost)",
+            "url": "https://wikidocs.net/120044"
+        }
+    ],
+    "links": [
+        {
+            "source": 120136,
+            "target": 120146
+        },
+        {
+            "source": 120136,
+            "target": 120398
+        },
+        {
+            "source": 120136,
+            "target": 120172
+        },
+        {
+            "source": 120136,
+            "target": 120198
+        },
+        {
+            "source": 120136,
+            "target": 120149
+        },
+        {
+            "source": 120136,
+            "target": 120081
+        },
+        {
+            "source": 120136,
+            "target": 120143
+        },
+        {
+            "source": 120136,
+            "target": 120144
+        },
+        {
+            "source": 120136,
+            "target": 120092
+        },
+        {
+            "source": 120136,
+            "target": 120153
+        },
+        {
+            "source": 120136,
+            "target": 120131
+        },
+        {
+            "source": 120146,
+            "target": 120136
+        },
+        {
+            "source": 120146,
+            "target": 120214
+        },
+        {
+            "source": 120146,
+            "target": 120067
+        },
+        {
+            "source": 120146,
+            "target": 85451
+        },
+        {
+            "source": 120146,
+            "target": 120131
+        },
+        {
+            "source": 120146,
+            "target": 183396
+        },
+        {
+            "source": 120327,
+            "target": 120230
+        },
+        {
+            "source": 120131,
+            "target": 166993
+        },
+        {
+            "source": 120131,
+            "target": 120153
+        },
+        {
+            "source": 120131,
+            "target": 120241
+        },
+        {
+            "source": 120131,
+            "target": 120214
+        },
+        {
+            "source": 120131,
+            "target": 120327
+        },
+        {
+            "source": 120131,
+            "target": 120325
+        },
+        {
+            "source": 120131,
+            "target": 120087
+        },
+        {
+            "source": 120131,
+            "target": 120082
+        },
+        {
+            "source": 120131,
+            "target": 120136
+        },
+        {
+            "source": 120131,
+            "target": 120081
+        },
+        {
+            "source": 120131,
+            "target": 120143
+        },
+        {
+            "source": 120131,
+            "target": 120144
+        },
+        {
+            "source": 120131,
+            "target": 120092
+        },
+        {
+            "source": 128393,
+            "target": 126060
+        },
+        {
+            "source": 222515,
+            "target": 222514
+        },
+        {
+            "source": 222515,
+            "target": 120327
+        },
+        {
+            "source": 222515,
+            "target": 222517
+        },
+        {
+            "source": 222512,
+            "target": 222514
+        },
+        {
+            "source": 222512,
+            "target": 222515
+        },
+        {
+            "source": 222512,
+            "target": 222517
+        },
+        {
+            "source": 222512,
+            "target": 222511
+        },
+        {
+            "source": 222512,
+            "target": 120072
+        },
+        {
+            "source": 128392,
+            "target": 120327
+        },
+        {
+            "source": 128392,
+            "target": 222497
+        },
+        {
+            "source": 128392,
+            "target": 120088
+        },
+        {
+            "source": 128392,
+            "target": 128393
+        },
+        {
+            "source": 222497,
+            "target": 120067
+        },
+        {
+            "source": 222497,
+            "target": 120136
+        },
+        {
+            "source": 222497,
+            "target": 120131
+        },
+        {
+            "source": 222497,
+            "target": 128392
+        },
+        {
+            "source": 222497,
+            "target": 128393
+        },
+        {
+            "source": 152763,
+            "target": 120327
+        },
+        {
+            "source": 152763,
+            "target": 121719
+        },
+        {
+            "source": 120153,
+            "target": 120136
+        },
+        {
+            "source": 120153,
+            "target": 167323
+        },
+        {
+            "source": 120153,
+            "target": 120196
+        },
+        {
+            "source": 120153,
+            "target": 120082
+        },
+        {
+            "source": 120153,
+            "target": 156948
+        },
+        {
+            "source": 120376,
+            "target": 120358
+        },
+        {
+            "source": 120376,
+            "target": 120147
+        },
+        {
+            "source": 120376,
+            "target": 120357
+        },
+        {
+            "source": 120376,
+            "target": 120360
+        },
+        {
+            "source": 120376,
+            "target": 120356
+        },
+        {
+            "source": 120376,
+            "target": 120363
+        },
+        {
+            "source": 120358,
+            "target": 120361
+        },
+        {
+            "source": 120358,
+            "target": 120357
+        },
+        {
+            "source": 120358,
+            "target": 120363
+        },
+        {
+            "source": 120358,
+            "target": 120356
+        },
+        {
+            "source": 120149,
+            "target": 120136
+        },
+        {
+            "source": 120149,
+            "target": 120361
+        },
+        {
+            "source": 120149,
+            "target": 120358
+        },
+        {
+            "source": 120149,
+            "target": 120356
+        },
+        {
+            "source": 120149,
+            "target": 120150
+        },
+        {
+            "source": 120149,
+            "target": 120172
+        },
+        {
+            "source": 120149,
+            "target": 167325
+        },
+        {
+            "source": 120149,
+            "target": 120146
+        },
+        {
+            "source": 174292,
+            "target": 202616
+        },
+        {
+            "source": 202616,
+            "target": 177875
+        },
+        {
+            "source": 202616,
+            "target": 204321
+        },
+        {
+            "source": 177875,
+            "target": 120136
+        },
+        {
+            "source": 177875,
+            "target": 120197
+        },
+        {
+            "source": 177875,
+            "target": 120111
+        },
+        {
+            "source": 177875,
+            "target": 120110
+        },
+        {
+            "source": 177875,
+            "target": 177876
+        },
+        {
+            "source": 120197,
+            "target": 120136
+        },
+        {
+            "source": 120197,
+            "target": 120172
+        },
+        {
+            "source": 120197,
+            "target": 120159
+        },
+        {
+            "source": 120197,
+            "target": 222524
+        },
+        {
+            "source": 120197,
+            "target": 120081
+        },
+        {
+            "source": 120197,
+            "target": 120144
+        },
+        {
+            "source": 120197,
+            "target": 120092
+        },
+        {
+            "source": 120197,
+            "target": 120143
+        },
+        {
+            "source": 120081,
+            "target": 120111
+        },
+        {
+            "source": 120081,
+            "target": 120110
+        },
+        {
+            "source": 120081,
+            "target": 177870
+        },
+        {
+            "source": 120081,
+            "target": 120159
+        },
+        {
+            "source": 120081,
+            "target": 57805
+        },
+        {
+            "source": 120081,
+            "target": 120083
+        },
+        {
+            "source": 120081,
+            "target": 120274
+        },
+        {
+            "source": 120081,
+            "target": 145648
+        },
+        {
+            "source": 120109,
+            "target": 120110
+        },
+        {
+            "source": 120109,
+            "target": 120049
+        },
+        {
+            "source": 120111,
+            "target": 120110
+        },
+        {
+            "source": 120111,
+            "target": 120081
+        },
+        {
+            "source": 120111,
+            "target": 120151
+        },
+        {
+            "source": 120321,
+            "target": 120320
+        },
+        {
+            "source": 202619,
+            "target": 120327
+        },
+        {
+            "source": 202619,
+            "target": 149213
+        },
+        {
+            "source": 120092,
+            "target": 120144
+        },
+        {
+            "source": 120092,
+            "target": 120136
+        },
+        {
+            "source": 120092,
+            "target": 120197
+        },
+        {
+            "source": 120092,
+            "target": 120111
+        },
+        {
+            "source": 120092,
+            "target": 120277
+        },
+        {
+            "source": 120092,
+            "target": 120322
+        },
+        {
+            "source": 120092,
+            "target": 120048
+        },
+        {
+            "source": 120168,
+            "target": 120076
+        },
+        {
+            "source": 120168,
+            "target": 120083
+        },
+        {
+            "source": 120168,
+            "target": 152159
+        },
+        {
+            "source": 120168,
+            "target": 156949
+        },
+        {
+            "source": 120168,
+            "target": 222491
+        },
+        {
+            "source": 120168,
+            "target": 120041
+        },
+        {
+            "source": 120168,
+            "target": 141215
+        },
+        {
+            "source": 120168,
+            "target": 149213
+        },
+        {
+            "source": 163321,
+            "target": 163302
+        },
+        {
+            "source": 222567,
+            "target": 120146
+        },
+        {
+            "source": 163301,
+            "target": 120149
+        },
+        {
+            "source": 163301,
+            "target": 120148
+        },
+        {
+            "source": 163301,
+            "target": 163304
+        },
+        {
+            "source": 152836,
+            "target": 120078
+        },
+        {
+            "source": 152836,
+            "target": 126061
+        },
+        {
+            "source": 170551,
+            "target": 120076
+        },
+        {
+            "source": 170551,
+            "target": 120168
+        },
+        {
+            "source": 170551,
+            "target": 148850
+        },
+        {
+            "source": 170551,
+            "target": 120083
+        },
+        {
+            "source": 170692,
+            "target": 120131
+        },
+        {
+            "source": 170692,
+            "target": 120149
+        },
+        {
+            "source": 120079,
+            "target": 120156
+        },
+        {
+            "source": 120079,
+            "target": 145648
+        },
+        {
+            "source": 120079,
+            "target": 60754
+        },
+        {
+            "source": 151504,
+            "target": 151503
+        },
+        {
+            "source": 120360,
+            "target": 120358
+        },
+        {
+            "source": 120360,
+            "target": 120361
+        },
+        {
+            "source": 120360,
+            "target": 120357
+        },
+        {
+            "source": 120360,
+            "target": 120356
+        },
+        {
+            "source": 120360,
+            "target": 120363
+        },
+        {
+            "source": 120076,
+            "target": 120153
+        },
+        {
+            "source": 120076,
+            "target": 120083
+        },
+        {
+            "source": 120076,
+            "target": 152159
+        },
+        {
+            "source": 120076,
+            "target": 120168
+        },
+        {
+            "source": 120076,
+            "target": 120084
+        },
+        {
+            "source": 120076,
+            "target": 166993
+        },
+        {
+            "source": 120275,
+            "target": 141213
+        },
+        {
+            "source": 120275,
+            "target": 120087
+        },
+        {
+            "source": 120041,
+            "target": 120152
+        },
+        {
+            "source": 120041,
+            "target": 120198
+        },
+        {
+            "source": 120041,
+            "target": 120077
+        },
+        {
+            "source": 120041,
+            "target": 157189
+        },
+        {
+            "source": 149211,
+            "target": 120153
+        },
+        {
+            "source": 149211,
+            "target": 120082
+        },
+        {
+            "source": 149211,
+            "target": 120076
+        },
+        {
+            "source": 149211,
+            "target": 120083
+        },
+        {
+            "source": 149211,
+            "target": 120168
+        },
+        {
+            "source": 149211,
+            "target": 121719
+        },
+        {
+            "source": 120207,
+            "target": 120214
+        },
+        {
+            "source": 120207,
+            "target": 120087
+        },
+        {
+            "source": 120207,
+            "target": 222498
+        },
+        {
+            "source": 120207,
+            "target": 222504
+        },
+        {
+            "source": 120207,
+            "target": 120088
+        },
+        {
+            "source": 120207,
+            "target": 120208
+        },
+        {
+            "source": 120207,
+            "target": 145649
+        },
+        {
+            "source": 120207,
+            "target": 119990
+        },
+        {
+            "source": 200934,
+            "target": 120156
+        },
+        {
+            "source": 147606,
+            "target": 120325
+        },
+        {
+            "source": 147606,
+            "target": 120082
+        },
+        {
+            "source": 202612,
+            "target": 120072
+        },
+        {
+            "source": 202612,
+            "target": 202613
+        },
+        {
+            "source": 120082,
+            "target": 120156
+        },
+        {
+            "source": 120082,
+            "target": 157192
+        },
+        {
+            "source": 120082,
+            "target": 120285
+        },
+        {
+            "source": 120082,
+            "target": 60682
+        },
+        {
+            "source": 120082,
+            "target": 120090
+        },
+        {
+            "source": 120082,
+            "target": 120084
+        },
+        {
+            "source": 120082,
+            "target": 120077
+        },
+        {
+            "source": 120082,
+            "target": 120153
+        },
+        {
+            "source": 152756,
+            "target": 120144
+        },
+        {
+            "source": 145646,
+            "target": 120053
+        },
+        {
+            "source": 145646,
+            "target": 149213
+        },
+        {
+            "source": 120200,
+            "target": 120154
+        },
+        {
+            "source": 120159,
+            "target": 120197
+        },
+        {
+            "source": 120159,
+            "target": 177875
+        },
+        {
+            "source": 120159,
+            "target": 120081
+        },
+        {
+            "source": 120159,
+            "target": 57805
+        },
+        {
+            "source": 149290,
+            "target": 22660
+        },
+        {
+            "source": 120290,
+            "target": 120292
+        },
+        {
+            "source": 149206,
+            "target": 120289
+        },
+        {
+            "source": 149206,
+            "target": 120290
+        },
+        {
+            "source": 149206,
+            "target": 120171
+        },
+        {
+            "source": 120201,
+            "target": 120230
+        },
+        {
+            "source": 120067,
+            "target": 120327
+        },
+        {
+            "source": 120067,
+            "target": 202614
+        },
+        {
+            "source": 120067,
+            "target": 202613
+        },
+        {
+            "source": 149268,
+            "target": 22660
+        },
+        {
+            "source": 184731,
+            "target": 151187
+        },
+        {
+            "source": 141211,
+            "target": 120156
+        },
+        {
+            "source": 179495,
+            "target": 120214
+        },
+        {
+            "source": 157190,
+            "target": 120077
+        },
+        {
+            "source": 120292,
+            "target": 120172
+        },
+        {
+            "source": 120292,
+            "target": 120198
+        },
+        {
+            "source": 223859,
+            "target": 120152
+        },
+        {
+            "source": 223859,
+            "target": 120061
+        },
+        {
+            "source": 223859,
+            "target": 223858
+        },
+        {
+            "source": 120152,
+            "target": 166993
+        },
+        {
+            "source": 120152,
+            "target": 120214
+        },
+        {
+            "source": 120152,
+            "target": 120197
+        },
+        {
+            "source": 120152,
+            "target": 120153
+        },
+        {
+            "source": 120188,
+            "target": 120195
+        },
+        {
+            "source": 120188,
+            "target": 120148
+        },
+        {
+            "source": 120188,
+            "target": 120376
+        },
+        {
+            "source": 120227,
+            "target": 120163
+        },
+        {
+            "source": 120144,
+            "target": 120172
+        },
+        {
+            "source": 120144,
+            "target": 120271
+        },
+        {
+            "source": 120064,
+            "target": 120144
+        },
+        {
+            "source": 167322,
+            "target": 167321
+        },
+        {
+            "source": 120195,
+            "target": 120131
+        },
+        {
+            "source": 120195,
+            "target": 120193
+        },
+        {
+            "source": 120195,
+            "target": 120148
+        },
+        {
+            "source": 120195,
+            "target": 120153
+        },
+        {
+            "source": 120366,
+            "target": 120356
+        },
+        {
+            "source": 120366,
+            "target": 120358
+        },
+        {
+            "source": 120366,
+            "target": 120360
+        },
+        {
+            "source": 120053,
+            "target": 120163
+        },
+        {
+            "source": 120053,
+            "target": 120152
+        },
+        {
+            "source": 120053,
+            "target": 120052
+        },
+        {
+            "source": 120053,
+            "target": 145646
+        },
+        {
+            "source": 120406,
+            "target": 120406
+        },
+        {
+            "source": 120406,
+            "target": 167335
+        },
+        {
+            "source": 205361,
+            "target": 174292
+        },
+        {
+            "source": 202624,
+            "target": 204828
+        },
+        {
+            "source": 202624,
+            "target": 120325
+        },
+        {
+            "source": 120091,
+            "target": 120052
+        },
+        {
+            "source": 120277,
+            "target": 152756
+        },
+        {
+            "source": 120277,
+            "target": 152757
+        },
+        {
+            "source": 120361,
+            "target": 120358
+        },
+        {
+            "source": 120361,
+            "target": 120360
+        },
+        {
+            "source": 120361,
+            "target": 120356
+        },
+        {
+            "source": 120355,
+            "target": 120357
+        },
+        {
+            "source": 120355,
+            "target": 120358
+        },
+        {
+            "source": 120355,
+            "target": 120356
+        },
+        {
+            "source": 177876,
+            "target": 177877
+        },
+        {
+            "source": 176148,
+            "target": 156948
+        },
+        {
+            "source": 176148,
+            "target": 120153
+        },
+        {
+            "source": 176148,
+            "target": 120325
+        },
+        {
+            "source": 204814,
+            "target": 177875
+        },
+        {
+            "source": 202611,
+            "target": 120327
+        },
+        {
+            "source": 202611,
+            "target": 202616
+        },
+        {
+            "source": 120066,
+            "target": 120171
+        },
+        {
+            "source": 148349,
+            "target": 177875
+        },
+        {
+            "source": 167327,
+            "target": 167326
+        },
+        {
+            "source": 120208,
+            "target": 145649
+        },
+        {
+            "source": 120208,
+            "target": 120285
+        },
+        {
+            "source": 120208,
+            "target": 183396
+        },
+        {
+            "source": 120208,
+            "target": 120217
+        },
+        {
+            "source": 120208,
+            "target": 158318
+        },
+        {
+            "source": 120088,
+            "target": 120089
+        },
+        {
+            "source": 223858,
+            "target": 120241
+        },
+        {
+            "source": 223858,
+            "target": 120136
+        },
+        {
+            "source": 223858,
+            "target": 120061
+        },
+        {
+            "source": 223858,
+            "target": 223857
+        },
+        {
+            "source": 169098,
+            "target": 120087
+        },
+        {
+            "source": 169098,
+            "target": 120208
+        },
+        {
+            "source": 169098,
+            "target": 222498
+        },
+        {
+            "source": 169098,
+            "target": 222499
+        },
+        {
+            "source": 169098,
+            "target": 157189
+        },
+        {
+            "source": 169098,
+            "target": 120274
+        },
+        {
+            "source": 120326,
+            "target": 120086
+        },
+        {
+            "source": 222635,
+            "target": 120214
+        },
+        {
+            "source": 222635,
+            "target": 120226
+        },
+        {
+            "source": 222635,
+            "target": 179495
+        },
+        {
+            "source": 222635,
+            "target": 142562
+        },
+        {
+            "source": 157189,
+            "target": 120081
+        },
+        {
+            "source": 204828,
+            "target": 120156
+        },
+        {
+            "source": 120156,
+            "target": 204828
+        },
+        {
+            "source": 120156,
+            "target": 120078
+        },
+        {
+            "source": 120156,
+            "target": 145063
+        },
+        {
+            "source": 120156,
+            "target": 120077
+        },
+        {
+            "source": 120156,
+            "target": 141211
+        },
+        {
+            "source": 166989,
+            "target": 120048
+        },
+        {
+            "source": 166989,
+            "target": 120110
+        },
+        {
+            "source": 120061,
+            "target": 122773
+        },
+        {
+            "source": 185640,
+            "target": 151504
+        },
+        {
+            "source": 120155,
+            "target": 120176
+        },
+        {
+            "source": 120155,
+            "target": 120154
+        },
+        {
+            "source": 152159,
+            "target": 120076
+        },
+        {
+            "source": 152159,
+            "target": 120083
+        },
+        {
+            "source": 152159,
+            "target": 120156
+        },
+        {
+            "source": 120048,
+            "target": 126061
+        },
+        {
+            "source": 120048,
+            "target": 120090
+        },
+        {
+            "source": 222511,
+            "target": 120209
+        },
+        {
+            "source": 222511,
+            "target": 222512
+        },
+        {
+            "source": 222511,
+            "target": 120072
+        },
+        {
+            "source": 202613,
+            "target": 120209
+        },
+        {
+            "source": 202613,
+            "target": 222511
+        },
+        {
+            "source": 202613,
+            "target": 120131
+        },
+        {
+            "source": 202613,
+            "target": 120327
+        },
+        {
+            "source": 149212,
+            "target": 120291
+        },
+        {
+            "source": 167323,
+            "target": 167321
+        },
+        {
+            "source": 120169,
+            "target": 120172
+        },
+        {
+            "source": 120169,
+            "target": 120398
+        },
+        {
+            "source": 120169,
+            "target": 120285
+        },
+        {
+            "source": 222644,
+            "target": 120136
+        },
+        {
+            "source": 120154,
+            "target": 123070
+        },
+        {
+            "source": 120154,
+            "target": 120155
+        },
+        {
+            "source": 120085,
+            "target": 120230
+        },
+        {
+            "source": 120085,
+            "target": 120197
+        },
+        {
+            "source": 120085,
+            "target": 120111
+        },
+        {
+            "source": 120085,
+            "target": 128395
+        },
+        {
+            "source": 120279,
+            "target": 120277
+        },
+        {
+            "source": 129144,
+            "target": 123122
+        },
+        {
+            "source": 120206,
+            "target": 120204
+        },
+        {
+            "source": 152832,
+            "target": 152833
+        },
+        {
+            "source": 152833,
+            "target": 152832
+        },
+        {
+            "source": 157671,
+            "target": 30708
+        },
+        {
+            "source": 174293,
+            "target": 174292
+        },
+        {
+            "source": 174293,
+            "target": 120197
+        },
+        {
+            "source": 120086,
+            "target": 120325
+        },
+        {
+            "source": 120086,
+            "target": 60762
+        },
+        {
+            "source": 120086,
+            "target": 120087
+        },
+        {
+            "source": 120215,
+            "target": 120325
+        },
+        {
+            "source": 120215,
+            "target": 120087
+        },
+        {
+            "source": 120215,
+            "target": 222502
+        },
+        {
+            "source": 120215,
+            "target": 120241
+        },
+        {
+            "source": 120215,
+            "target": 169098
+        },
+        {
+            "source": 167321,
+            "target": 120361
+        },
+        {
+            "source": 167321,
+            "target": 167323
+        },
+        {
+            "source": 167321,
+            "target": 167322
+        },
+        {
+            "source": 167321,
+            "target": 120198
+        },
+        {
+            "source": 167321,
+            "target": 120172
+        },
+        {
+            "source": 167321,
+            "target": 120199
+        },
+        {
+            "source": 167321,
+            "target": 120149
+        },
+        {
+            "source": 141212,
+            "target": 120156
+        },
+        {
+            "source": 177870,
+            "target": 177873
+        },
+        {
+            "source": 177870,
+            "target": 120153
+        },
+        {
+            "source": 177870,
+            "target": 120083
+        },
+        {
+            "source": 177873,
+            "target": 177874
+        },
+        {
+            "source": 120077,
+            "target": 170549
+        },
+        {
+            "source": 120077,
+            "target": 157190
+        },
+        {
+            "source": 120077,
+            "target": 120153
+        },
+        {
+            "source": 168958,
+            "target": 167325
+        },
+        {
+            "source": 120150,
+            "target": 120149
+        },
+        {
+            "source": 120150,
+            "target": 120372
+        },
+        {
+            "source": 120150,
+            "target": 120374
+        },
+        {
+            "source": 120150,
+            "target": 120357
+        },
+        {
+            "source": 120150,
+            "target": 120360
+        },
+        {
+            "source": 120150,
+            "target": 120406
+        },
+        {
+            "source": 120150,
+            "target": 120405
+        },
+        {
+            "source": 120150,
+            "target": 163306
+        },
+        {
+            "source": 120150,
+            "target": 120148
+        },
+        {
+            "source": 120150,
+            "target": 120194
+        },
+        {
+            "source": 156948,
+            "target": 120172
+        },
+        {
+            "source": 156948,
+            "target": 166993
+        },
+        {
+            "source": 156948,
+            "target": 120082
+        },
+        {
+            "source": 156948,
+            "target": 120196
+        },
+        {
+            "source": 120171,
+            "target": 145648
+        },
+        {
+            "source": 170549,
+            "target": 120077
+        },
+        {
+            "source": 170549,
+            "target": 157190
+        },
+        {
+            "source": 222502,
+            "target": 120087
+        },
+        {
+            "source": 120373,
+            "target": 120374
+        },
+        {
+            "source": 120374,
+            "target": 120357
+        },
+        {
+            "source": 120374,
+            "target": 120356
+        },
+        {
+            "source": 120374,
+            "target": 120150
+        },
+        {
+            "source": 120372,
+            "target": 120373
+        },
+        {
+            "source": 120372,
+            "target": 120368
+        },
+        {
+            "source": 120405,
+            "target": 120407
+        },
+        {
+            "source": 120405,
+            "target": 120363
+        },
+        {
+            "source": 120405,
+            "target": 120361
+        },
+        {
+            "source": 120405,
+            "target": 120357
+        },
+        {
+            "source": 120405,
+            "target": 120360
+        },
+        {
+            "source": 120405,
+            "target": 120356
+        },
+        {
+            "source": 120405,
+            "target": 120406
+        },
+        {
+            "source": 222524,
+            "target": 120159
+        },
+        {
+            "source": 222524,
+            "target": 120081
+        },
+        {
+            "source": 222524,
+            "target": 120144
+        },
+        {
+            "source": 222524,
+            "target": 120092
+        },
+        {
+            "source": 222524,
+            "target": 120143
+        },
+        {
+            "source": 222524,
+            "target": 120153
+        },
+        {
+            "source": 222524,
+            "target": 120089
+        },
+        {
+            "source": 222524,
+            "target": 222521
+        },
+        {
+            "source": 167326,
+            "target": 120131
+        },
+        {
+            "source": 145063,
+            "target": 120156
+        },
+        {
+            "source": 145063,
+            "target": 120078
+        },
+        {
+            "source": 183396,
+            "target": 120136
+        },
+        {
+            "source": 183396,
+            "target": 120169
+        },
+        {
+            "source": 167335,
+            "target": 167336
+        },
+        {
+            "source": 167336,
+            "target": 163304
+        },
+        {
+            "source": 167336,
+            "target": 120405
+        },
+        {
+            "source": 167336,
+            "target": 163306
+        },
+        {
+            "source": 167336,
+            "target": 120149
+        },
+        {
+            "source": 167336,
+            "target": 167335
+        },
+        {
+            "source": 222504,
+            "target": 120214
+        },
+        {
+            "source": 222504,
+            "target": 120325
+        },
+        {
+            "source": 222504,
+            "target": 120086
+        },
+        {
+            "source": 222504,
+            "target": 120087
+        },
+        {
+            "source": 222504,
+            "target": 120207
+        },
+        {
+            "source": 222499,
+            "target": 120131
+        },
+        {
+            "source": 222499,
+            "target": 120325
+        },
+        {
+            "source": 222499,
+            "target": 120087
+        },
+        {
+            "source": 120214,
+            "target": 120146
+        },
+        {
+            "source": 120214,
+            "target": 120241
+        },
+        {
+            "source": 120214,
+            "target": 222498
+        },
+        {
+            "source": 120214,
+            "target": 222499
+        },
+        {
+            "source": 120214,
+            "target": 222502
+        },
+        {
+            "source": 120214,
+            "target": 120217
+        },
+        {
+            "source": 120214,
+            "target": 222521
+        },
+        {
+            "source": 120214,
+            "target": 120136
+        },
+        {
+            "source": 120214,
+            "target": 120131
+        },
+        {
+            "source": 120214,
+            "target": 120325
+        },
+        {
+            "source": 120214,
+            "target": 120327
+        },
+        {
+            "source": 120214,
+            "target": 120087
+        },
+        {
+            "source": 222498,
+            "target": 222502
+        },
+        {
+            "source": 222498,
+            "target": 120217
+        },
+        {
+            "source": 222498,
+            "target": 120214
+        },
+        {
+            "source": 222498,
+            "target": 120325
+        },
+        {
+            "source": 222498,
+            "target": 120087
+        },
+        {
+            "source": 142041,
+            "target": 120325
+        },
+        {
+            "source": 142041,
+            "target": 120327
+        },
+        {
+            "source": 142041,
+            "target": 44249
+        },
+        {
+            "source": 120267,
+            "target": 120230
+        },
+        {
+            "source": 120196,
+            "target": 120153
+        },
+        {
+            "source": 145647,
+            "target": 120171
+        },
+        {
+            "source": 183176,
+            "target": 120136
+        },
+        {
+            "source": 183176,
+            "target": 222634
+        },
+        {
+            "source": 183176,
+            "target": 120214
+        },
+        {
+            "source": 183176,
+            "target": 120226
+        },
+        {
+            "source": 222510,
+            "target": 120156
+        },
+        {
+            "source": 222510,
+            "target": 120077
+        },
+        {
+            "source": 120072,
+            "target": 202614
+        },
+        {
+            "source": 120050,
+            "target": 120077
+        },
+        {
+            "source": 120050,
+            "target": 120156
+        },
+        {
+            "source": 120050,
+            "target": 120078
+        },
+        {
+            "source": 120050,
+            "target": 152835
+        },
+        {
+            "source": 120163,
+            "target": 120131
+        },
+        {
+            "source": 120163,
+            "target": 120111
+        },
+        {
+            "source": 120163,
+            "target": 120136
+        },
+        {
+            "source": 120163,
+            "target": 120284
+        },
+        {
+            "source": 222500,
+            "target": 168954
+        },
+        {
+            "source": 222491,
+            "target": 156949
+        },
+        {
+            "source": 222491,
+            "target": 120168
+        },
+        {
+            "source": 222491,
+            "target": 120163
+        },
+        {
+            "source": 179493,
+            "target": 92961
+        },
+        {
+            "source": 120084,
+            "target": 120153
+        },
+        {
+            "source": 120084,
+            "target": 120196
+        },
+        {
+            "source": 120084,
+            "target": 60680
+        },
+        {
+            "source": 120084,
+            "target": 120159
+        },
+        {
+            "source": 222633,
+            "target": 120215
+        },
+        {
+            "source": 120363,
+            "target": 120360
+        },
+        {
+            "source": 120363,
+            "target": 120357
+        },
+        {
+            "source": 120363,
+            "target": 120364
+        },
+        {
+            "source": 163304,
+            "target": 120356
+        },
+        {
+            "source": 163304,
+            "target": 120148
+        },
+        {
+            "source": 163304,
+            "target": 168954
+        },
+        {
+            "source": 120049,
+            "target": 120109
+        },
+        {
+            "source": 182319,
+            "target": 120327
+        },
+        {
+            "source": 182319,
+            "target": 177875
+        },
+        {
+            "source": 120364,
+            "target": 120193
+        },
+        {
+            "source": 120364,
+            "target": 120356
+        },
+        {
+            "source": 120364,
+            "target": 120358
+        },
+        {
+            "source": 120364,
+            "target": 120360
+        },
+        {
+            "source": 120364,
+            "target": 120355
+        },
+        {
+            "source": 120364,
+            "target": 120363
+        },
+        {
+            "source": 120364,
+            "target": 120357
+        },
+        {
+            "source": 120364,
+            "target": 120366
+        },
+        {
+            "source": 120148,
+            "target": 120148
+        },
+        {
+            "source": 120148,
+            "target": 120153
+        },
+        {
+            "source": 120148,
+            "target": 167336
+        },
+        {
+            "source": 120148,
+            "target": 120150
+        },
+        {
+            "source": 120148,
+            "target": 120149
+        },
+        {
+            "source": 120148,
+            "target": 120360
+        },
+        {
+            "source": 120148,
+            "target": 120356
+        },
+        {
+            "source": 120148,
+            "target": 120361
+        },
+        {
+            "source": 120148,
+            "target": 120364
+        },
+        {
+            "source": 120148,
+            "target": 123068
+        },
+        {
+            "source": 222514,
+            "target": 120072
+        },
+        {
+            "source": 222514,
+            "target": 120327
+        },
+        {
+            "source": 222514,
+            "target": 222515
+        },
+        {
+            "source": 222514,
+            "target": 222517
+        },
+        {
+            "source": 120074,
+            "target": 120075
+        },
+        {
+            "source": 120074,
+            "target": 120041
+        },
+        {
+            "source": 120074,
+            "target": 120073
+        },
+        {
+            "source": 168954,
+            "target": 163304
+        },
+        {
+            "source": 168954,
+            "target": 120363
+        },
+        {
+            "source": 152835,
+            "target": 152836
+        },
+        {
+            "source": 120325,
+            "target": 176148
+        },
+        {
+            "source": 120325,
+            "target": 120086
+        },
+        {
+            "source": 222637,
+            "target": 120214
+        },
+        {
+            "source": 222637,
+            "target": 120136
+        },
+        {
+            "source": 222637,
+            "target": 120131
+        },
+        {
+            "source": 120230,
+            "target": 120267
+        },
+        {
+            "source": 120320,
+            "target": 120322
+        },
+        {
+            "source": 120052,
+            "target": 120053
+        },
+        {
+            "source": 120052,
+            "target": 115354
+        },
+        {
+            "source": 120224,
+            "target": 120136
+        },
+        {
+            "source": 129665,
+            "target": 120087
+        },
+        {
+            "source": 129665,
+            "target": 120086
+        },
+        {
+            "source": 177877,
+            "target": 177876
+        },
+        {
+            "source": 120356,
+            "target": 120358
+        },
+        {
+            "source": 120356,
+            "target": 120361
+        },
+        {
+            "source": 120356,
+            "target": 120355
+        },
+        {
+            "source": 170691,
+            "target": 120358
+        },
+        {
+            "source": 170691,
+            "target": 120361
+        },
+        {
+            "source": 170691,
+            "target": 146206
+        },
+        {
+            "source": 170691,
+            "target": 120356
+        },
+        {
+            "source": 120078,
+            "target": 200934
+        },
+        {
+            "source": 120078,
+            "target": 152836
+        },
+        {
+            "source": 120078,
+            "target": 126061
+        },
+        {
+            "source": 120078,
+            "target": 145063
+        },
+        {
+            "source": 120143,
+            "target": 120197
+        },
+        {
+            "source": 120143,
+            "target": 120111
+        },
+        {
+            "source": 120143,
+            "target": 120136
+        },
+        {
+            "source": 120143,
+            "target": 120397
+        },
+        {
+            "source": 120143,
+            "target": 120172
+        },
+        {
+            "source": 158319,
+            "target": 120325
+        },
+        {
+            "source": 202621,
+            "target": 149213
+        },
+        {
+            "source": 202621,
+            "target": 202619
+        },
+        {
+            "source": 176447,
+            "target": 120289
+        },
+        {
+            "source": 176447,
+            "target": 128392
+        },
+        {
+            "source": 175381,
+            "target": 120076
+        },
+        {
+            "source": 167320,
+            "target": 120131
+        },
+        {
+            "source": 167320,
+            "target": 151504
+        },
+        {
+            "source": 167320,
+            "target": 120198
+        },
+        {
+            "source": 120199,
+            "target": 120172
+        },
+        {
+            "source": 120199,
+            "target": 120198
+        },
+        {
+            "source": 120083,
+            "target": 120081
+        },
+        {
+            "source": 120083,
+            "target": 120153
+        },
+        {
+            "source": 120083,
+            "target": 120076
+        },
+        {
+            "source": 120083,
+            "target": 177870
+        },
+        {
+            "source": 120083,
+            "target": 57805
+        },
+        {
+            "source": 167006,
+            "target": 123005
+        },
+        {
+            "source": 120089,
+            "target": 120081
+        },
+        {
+            "source": 120089,
+            "target": 120210
+        },
+        {
+            "source": 120089,
+            "target": 145650
+        },
+        {
+            "source": 120089,
+            "target": 120076
+        },
+        {
+            "source": 120089,
+            "target": 120083
+        },
+        {
+            "source": 179494,
+            "target": 120198
+        },
+        {
+            "source": 222634,
+            "target": 120214
+        },
+        {
+            "source": 222634,
+            "target": 183176
+        },
+        {
+            "source": 222634,
+            "target": 120136
+        },
+        {
+            "source": 222634,
+            "target": 174292
+        },
+        {
+            "source": 222634,
+            "target": 120226
+        },
+        {
+            "source": 120241,
+            "target": 120215
+        },
+        {
+            "source": 120241,
+            "target": 120086
+        },
+        {
+            "source": 120241,
+            "target": 120087
+        },
+        {
+            "source": 120357,
+            "target": 120358
+        },
+        {
+            "source": 120357,
+            "target": 120361
+        },
+        {
+            "source": 120357,
+            "target": 120360
+        },
+        {
+            "source": 120357,
+            "target": 120355
+        },
+        {
+            "source": 122752,
+            "target": 120374
+        },
+        {
+            "source": 122752,
+            "target": 120149
+        },
+        {
+            "source": 120075,
+            "target": 120282
+        },
+        {
+            "source": 120172,
+            "target": 120136
+        },
+        {
+            "source": 120172,
+            "target": 120197
+        },
+        {
+            "source": 120172,
+            "target": 120111
+        },
+        {
+            "source": 120172,
+            "target": 120163
+        },
+        {
+            "source": 120172,
+            "target": 120143
+        },
+        {
+            "source": 120172,
+            "target": 120153
+        },
+        {
+            "source": 120172,
+            "target": 120092
+        },
+        {
+            "source": 163306,
+            "target": 120149
+        },
+        {
+            "source": 163306,
+            "target": 167336
+        },
+        {
+            "source": 163306,
+            "target": 167335
+        },
+        {
+            "source": 145650,
+            "target": 145648
+        },
+        {
+            "source": 145650,
+            "target": 183396
+        },
+        {
+            "source": 145650,
+            "target": 120070
+        },
+        {
+            "source": 126052,
+            "target": 120086
+        },
+        {
+            "source": 126052,
+            "target": 120325
+        },
+        {
+            "source": 222521,
+            "target": 120214
+        },
+        {
+            "source": 222521,
+            "target": 120197
+        },
+        {
+            "source": 222521,
+            "target": 120217
+        },
+        {
+            "source": 222521,
+            "target": 120136
+        },
+        {
+            "source": 222521,
+            "target": 120131
+        },
+        {
+            "source": 222521,
+            "target": 120271
+        },
+        {
+            "source": 222521,
+            "target": 120143
+        },
+        {
+            "source": 222521,
+            "target": 120325
+        },
+        {
+            "source": 222521,
+            "target": 120327
+        },
+        {
+            "source": 222521,
+            "target": 120087
+        },
+        {
+            "source": 222503,
+            "target": 120214
+        },
+        {
+            "source": 222503,
+            "target": 120136
+        },
+        {
+            "source": 120245,
+            "target": 202626
+        },
+        {
+            "source": 120245,
+            "target": 120086
+        },
+        {
+            "source": 120245,
+            "target": 120088
+        },
+        {
+            "source": 120249,
+            "target": 202626
+        },
+        {
+            "source": 120249,
+            "target": 120086
+        },
+        {
+            "source": 146206,
+            "target": 120358
+        },
+        {
+            "source": 146206,
+            "target": 120356
+        },
+        {
+            "source": 146206,
+            "target": 120357
+        },
+        {
+            "source": 146206,
+            "target": 120360
+        },
+        {
+            "source": 120225,
+            "target": 120136
+        },
+        {
+            "source": 120225,
+            "target": 120214
+        },
+        {
+            "source": 120225,
+            "target": 120067
+        },
+        {
+            "source": 120225,
+            "target": 120241
+        },
+        {
+            "source": 120087,
+            "target": 120213
+        },
+        {
+            "source": 120087,
+            "target": 120325
+        },
+        {
+            "source": 120087,
+            "target": 120327
+        },
+        {
+            "source": 120087,
+            "target": 120207
+        },
+        {
+            "source": 120087,
+            "target": 169098
+        },
+        {
+            "source": 120087,
+            "target": 222498
+        },
+        {
+            "source": 120087,
+            "target": 222499
+        },
+        {
+            "source": 120087,
+            "target": 222502
+        },
+        {
+            "source": 120087,
+            "target": 120217
+        },
+        {
+            "source": 120087,
+            "target": 120275
+        },
+        {
+            "source": 120087,
+            "target": 31379
+        },
+        {
+            "source": 120087,
+            "target": 120086
+        },
+        {
+            "source": 120087,
+            "target": 145648
+        },
+        {
+            "source": 184728,
+            "target": 184731
+        },
+        {
+            "source": 184730,
+            "target": 184728
+        },
+        {
+            "source": 184732,
+            "target": 120327
+        },
+        {
+            "source": 184732,
+            "target": 184731
+        },
+        {
+            "source": 120198,
+            "target": 167321
+        },
+        {
+            "source": 120198,
+            "target": 120200
+        },
+        {
+            "source": 120289,
+            "target": 120291
+        },
+        {
+            "source": 120289,
+            "target": 120041
+        },
+        {
+            "source": 149213,
+            "target": 120153
+        },
+        {
+            "source": 149213,
+            "target": 120076
+        },
+        {
+            "source": 120284,
+            "target": 120153
+        },
+        {
+            "source": 120368,
+            "target": 120356
+        },
+        {
+            "source": 120368,
+            "target": 120366
+        },
+        {
+            "source": 120285,
+            "target": 120076
+        },
+        {
+            "source": 120285,
+            "target": 120077
+        },
+        {
+            "source": 120285,
+            "target": 120050
+        },
+        {
+            "source": 120285,
+            "target": 120131
+        },
+        {
+            "source": 120226,
+            "target": 222634
+        },
+        {
+            "source": 120226,
+            "target": 142562
+        },
+        {
+            "source": 120044,
+            "target": 120277
+        },
+        {
+            "source": 120044,
+            "target": 120092
+        },
+        {
+            "source": 223854,
+            "target": 120241
+        },
+        {
+            "source": 223854,
+            "target": 120275
+        },
+        {
+            "source": 223854,
+            "target": 204321
+        },
+        {
+            "source": 120144,
+            "target": 120204
+        }
+    ]
+}
