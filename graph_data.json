@@ -1564,6 +1564,16 @@
             "id": 120044,
             "name": "XGBoost(eXtra Gradient Boost)",
             "url": "https://wikidocs.net/120044"
+        },
+        {
+            "id": 223873,
+            "name": "pattern recognition (\ud328\ud134 \uc778\uc2dd)",
+            "url": "https://wikidocs.net/223873"
+        },
+        {
+            "id": 158319,
+            "name": "seq2seq: Sequence to Sequence (\uc2dc\ud000\uc2a4 \ud22c \uc2dc\ud000\uc2a4)",
+            "url": "https://wikidocs.net/158319"
         }
     ],
     "links": [
@@ -4110,6 +4120,58 @@
         {
             "source": 120149,
             "target": 120214
+        },
+        {
+            "source": 120198,
+            "target": 120136
+        },
+        {
+            "source": 120198,
+            "target": 120176
+        },
+        {
+            "source": 120198,
+            "target": 216699
+        },
+        {
+            "source": 223873,
+            "target": 120136
+        },
+        {
+            "source": 223873,
+            "target": 120146
+        },
+        {
+            "source": 223873,
+            "target": 202616
+        },
+        {
+            "source": 223873,
+            "target": 120197
+        },
+        {
+            "source": 223873,
+            "target": 120176
+        },
+        {
+            "source": 142562,
+            "target": 120214
+        },
+        {
+            "source": 142562,
+            "target": 149290
+        },
+        {
+            "source": 158319,
+            "target": 120214
+        },
+        {
+            "source": 158319,
+            "target": 120086
+        },
+        {
+            "source": 158319,
+            "target": 120326
         }
     ]
 }
