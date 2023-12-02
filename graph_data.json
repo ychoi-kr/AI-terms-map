@@ -1574,6 +1574,11 @@
             "id": 158319,
             "name": "seq2seq: Sequence to Sequence (\uc2dc\ud000\uc2a4 \ud22c \uc2dc\ud000\uc2a4)",
             "url": "https://wikidocs.net/158319"
+        },
+        {
+            "id": 223884,
+            "name": "decoder (\ub514\ucf54\ub354)",
+            "url": "https://wikidocs.net/223884"
         }
     ],
     "links": [
@@ -4272,6 +4277,34 @@
         {
             "source": 222524,
             "target": 120136
+        },
+        {
+            "source": 120041,
+            "target": 166993
+        },
+        {
+            "source": 120041,
+            "target": 202616
+        },
+        {
+            "source": 223884,
+            "target": 120214
+        },
+        {
+            "source": 223884,
+            "target": 120325
+        },
+        {
+            "source": 223884,
+            "target": 120086
+        },
+        {
+            "source": 223884,
+            "target": 120326
+        },
+        {
+            "source": 223884,
+            "target": 120087
         }
     ]
 }
