@@ -1271,11 +1271,6 @@
             "url": "https://wikidocs.net/120143"
         },
         {
-            "id": 158319,
-            "name": "Sequence to Sequence (\uc2dc\ud000\uc2a4 \ud22c \uc2dc\ud000\uc2a4)",
-            "url": "https://wikidocs.net/158319"
-        },
-        {
             "id": 202621,
             "name": "Skip Connection (\uc2a4\ud0b5 \uc5f0\uacb0)",
             "url": "https://wikidocs.net/202621"
@@ -4345,6 +4340,26 @@
         {
             "source": 120086,
             "target": 166993
+        },
+        {
+            "source": 120326,
+            "target": 120325
+        },
+        {
+            "source": 120326,
+            "target": 120214
+        },
+        {
+            "source": 120326,
+            "target": 120241
+        },
+        {
+            "source": 120326,
+            "target": 120249
+        },
+        {
+            "source": 120275,
+            "target": 158319
         }
     ]
 }
