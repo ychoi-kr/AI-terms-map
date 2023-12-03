@@ -1579,6 +1579,21 @@
             "id": 223908,
             "name": "CTC: Connectionist Temporal Classification (\uc5f0\uacb0 \uc2dc\uac04 \ubd84\ub958)",
             "url": "https://wikidocs.net/223908"
+        },
+        {
+            "id": 223912,
+            "name": "BLSTM: Bidirectional Long Short-Term Memory",
+            "url": "https://wikidocs.net/223912"
+        },
+        {
+            "id": 223918,
+            "name": "conformer (\ucee8\ud3ec\uba38)",
+            "url": "https://wikidocs.net/223918"
+        },
+        {
+            "id": 223919,
+            "name": "VSR: Visual Speech Recognition",
+            "url": "https://wikidocs.net/223919"
         }
     ],
     "links": [
@@ -4501,6 +4516,70 @@
         {
             "source": 128394,
             "target": 120374
+        },
+        {
+            "source": 223912,
+            "target": 120086
+        },
+        {
+            "source": 223912,
+            "target": 120241
+        },
+        {
+            "source": 223912,
+            "target": 120215
+        },
+        {
+            "source": 223912,
+            "target": 120217
+        },
+        {
+            "source": 223912,
+            "target": 120214
+        },
+        {
+            "source": 156948,
+            "target": 120153
+        },
+        {
+            "source": 156948,
+            "target": 120197
+        },
+        {
+            "source": 156948,
+            "target": 120111
+        },
+        {
+            "source": 176148,
+            "target": 120285
+        },
+        {
+            "source": 176148,
+            "target": 120076
+        },
+        {
+            "source": 176148,
+            "target": 166993
+        },
+        {
+            "source": 223918,
+            "target": 120241
+        },
+        {
+            "source": 223918,
+            "target": 120131
+        },
+        {
+            "source": 223918,
+            "target": 120327
+        },
+        {
+            "source": 223918,
+            "target": 120087
+        },
+        {
+            "source": 223919,
+            "target": 223918
         }
     ]
 }
