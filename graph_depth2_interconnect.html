@@ -73,11 +73,13 @@ const svg = container.append("svg")
 
     const link = svg.append("g")
         .attr("stroke", "#999")
-        .attr("stroke-opacity", 0.2) // 초기에 링크를 덜 두드러지게 설정
         .selectAll("line")
         .data(filteredLinks)
         .join("line")
-        .attr("stroke-width", d => Math.sqrt(d.value));
+        .attr("stroke-width", d => Math.sqrt(d.value))
+    .style('stroke-opacity', l => l.source === startNode.id || l.target === startNode.id ? 1 : 0.2)
+    .style('stroke', l => l.source === startNode.id || l.target === startNode.id ? 'red' : '#999');
+
 
 
     const node = svg.append("g")
@@ -122,10 +124,6 @@ const svg = container.append("svg")
                 connectedNodes.add(link.source);
             }
         });
-
-    // 디버깅을 위한 출력
-    console.log("Connected Nodes:", Array.from(connectedNodes));
-    console.log("Filtered Nodes:", filteredNodes.map(n => n.id));
 
         // 링크 및 노드 스타일 변경
         link.style('stroke-opacity', l => l.source === d || l.target === d ? 1 : 0.2)
