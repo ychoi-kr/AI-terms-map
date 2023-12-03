@@ -1,4 +1,4 @@
-<h1>AI: Artificial Intelligence (인공지능)</h1>
+<h1>BPTT: Backpropagation Through Time</h1>
 
 ### 관련 용어
 
@@ -101,7 +101,7 @@ const svg = container.append("svg")
         .attr("x", 8)
         .attr("y", 3)
         .text(d => d.name.split('(')[0].split(':')[0].trim())
-        .style('opacity', d => connectedNodes.has(d.id) ? 1 : 0.2)
+        .style('opacity', d => (d === startNode || connectedNodes.has(d.id)) ? 1 : 0.2)
         .style("cursor", "pointer")
         .on("click", (event, d) => {
         window.open(d.url, '_self');
